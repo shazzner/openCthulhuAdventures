@@ -1,0 +1,177 @@
+* TITLE
+Taken Before the Flood
+The rising waters of horror!
+* INFORMATION
+Created by: Chris Hardee
+* INTRODUCTION  
+** Inspiration
+Taken Before the Flood was invisioned when reading a blog post on tips for Keepers. In a section on things NOT to do as a Keeper, one of them mentioned not to get investigators anywhere near water. The poster explained this due to the fact that investigators never put any skill points into Swimming and thus always fail critical rolls when in the water. When I read this, naturally, I invisioned a water scenario. I think that bit of advise could apply towards a multitude of skills (driving perhaps), something about investigators constantly being dragged underwater inspired me.
+** Length
+Hopefully one session. The span of the adventure will take place in one location over the span of three days.
+
+* SETTING
+** Era
+This scenario was invisioned for the Call of Cthulhu classic 1920s era, though with a few changes here and there would adapt to a modern or gaslight scenario. Common problems like smartphones can be cleverly avoided due to the sheer amount of electronics-destroying rain and futuristic technologies such as radios and gramaphones can be easily substituted by live music. Tips for adapting this scenario to other eras are included in the adventure text.
+
+** Mood
+Players or Keepers wishing to enliven the mood are suggested to loop a rain soundscape, as the rain and thundar will not stop until the adventure is completed.
+
+* KEEPER INFORMATION
+Taken before the Flood begins with the central artifact already being secreted away and a terrifying ritual already begun. A Keeper may wish to add in an additional scenario, the Author felt that bad things already happening without the investigators understanding the implications adds to the dramatic tension.
+
+** A Mystery of Sorts
+Though the ultimate culprit of the book-thief and ritual has been pre-selected: the Keeper may wish to change the identity if she suspects investigators short-cutting the scenario. The culprit's exact identity isn't terribly important in the context of the story, only the clues leading to the culprit. Notes will be provided on clues if the Keeper wishes to change the culprit's identity.
+
+** Background
+At approximately 7pm yesterday evening: a book of the rarest sort, /Canticum de Abyssi/ (author unknown), was taken from Yanaguana Society's private library, by a Ms. Davos. Its disappearance hasn't been realized yet, though that's soon to change. Upon taking the book the thief immediately checked into the Menger Hotel in the heart of downtown San Antonio and began performing a complex ritual. The ritual, ultimately, was to summon the ancient one Dagon. The summoning was a perticularly masterful one as Dagon is an ancient one of the sea and due to San Antonio being about 300 miles from the nearest ocean; if Dagon cannot be summoned from the depths of the ocean: Dagon will bring the ocean with it. The ritual involved a lengthy incantation from the stolen book. In the wee hours of the morning, immediately upon completing the ritual, a portal opened up in the skies above the hotel. This portal is connected to Y'ha-nthlei, the land of Dagon deep below the ocean, and it is growing exponentially. First will be light rain, then heavy rains, followed by a torrent of rain the likes which have never seen before. The final stage will be a vertical ocean, a tower of water, large enough for Dagon to crossover and complete the ritual. The rain is briney to the taste and sometimes carries small fish and bits of corral. The rain will not stop until the ritual is finished unless a ritual of banishment is performed. Once summoned, Dagon will begin devouring "sacrifices" until satisfied and the portal begins to weaken (five days time) or Dagon has been injured enough to retreat back. Either way: Dagon will drag the now sunken city back with it into the depths of the ocean from whence it came.
+
+** /Canticum de Abyssi/
+The book used for the summoning ritual is filled with terrifying Mythos power. An ancient book, it is mostly sheets of papyrus sandwiched between hand carved wooden slats. It can be considered to a sibling book to /The Book of Dagon/ so coveted by the Esoteric Order of Dagon, in Innsmouth. It was written by an entirely separate adventurer encountering the Kanak tribe, that worshiped the deep ones. Written in Latin, with mentions to an emperor that doesn't exists in history books, it describes how to summon Dagon through a series of rituals within rituals. The book is quite fragile and clumsy or unlucky investigators carrying the book can render the book wet and ruined if not careful, though it could be easily argued that this book being destroyed is a win for humanity.
+Investigators wishing to read the book require a successful *Latin* roll and a Sanity check: 1D4/2D6. Investigators failing this check will sincerely believe this book can be used help humanity, by creating a portal to water and life anywhere on the earth, as Ms. Davos believed. Investigators wanting to comprehend its full contents will need an entire week to study it. It adds 8 points to an investigators *Cthulhu Mythos*, costs 1D12 Sanity, and contains the Summon Dagon spell.
+
+** Flow of time
+The scenario is broken up into three acts with sub sections in each marking important events. Though time is on a schedule, Keepers are advised to be leiniant on time and only advance the "clock" when a natural break occurs. Concordantly, players should realize a sense of urgency and not run off their rooms and read dusty tomes for three days.
+
+** Flooding
+As noted in the act's subsections, the Hotel is slowly flooding along with the city it inhabits. As such, parts of the hotel begin to be submerged. The Keeper may indicate this on the map handout by shading in the flooded and submerged areas with a pencil. A flooded area means enough water has gathered to make it difficult to walk and a submerged area is either only passable by swiming or diving completely submerged. Investigators my attempt to stem the flooding by barricading doors or stairs which will be only slightly effective in keeping the water at bay, rickety wooden hotel doors are not naval bulk-heads.
+
+** Optional Rules for Hypothermia
+Wading in the water for an extended time can start to cause hypothermia on the investigator. Keeper may optionally keep track of how long a player has been in the water and how long they've been in their wet clothes. After four hours of being in water and/or in wet clothes, require the investigators to make a Constitution check and after each additional hour they don't get dry and warm. Failing this check will cause a loss of 1D4 HP and Magic points, along with the investigator becoming fatigued and shivering uncontrollably. If the investigator fails to get dry and warm each additional failed Constitution roll will incur an additional 1D4. This cumulative penalty resets once they're safe, dry, and warm. It should be noted that places to find warmth will be scarce, save for another living human body. It is hoped the investigators will not be trepidacious of bedding with a fellow investigator.
+
+* NON-PLAYER CHARACTERS
+** Staff
+*** Ernesto Manacavas
+Hotel owner and historian. A small man wearing glasses and sporting a graying beard. Though the owner, Ernesto leaves managing to his hired administer Mr. Fines. Instead Ernesto haunts the hotel checking to see everything is in order and properly dusted and will regale passerbys with random tidbits of history and trivia. Usually quiet, but when asked about a certain fixture of the hotel or espcially a ghost-sighting, will rattle off for hours without break with every minutia of detail about it. Though certainly charming once he gets worked up, eventually everyone fatigues at his sermons and will eventually politely excuse themselves once a rare break in his speech happens. Ernesto never takes offense to this, will smile, bid them forewell, and continue on his way.
+Ernesto rarely finds himself distraught or panicked, as would happen when the upcoming events would unfold; alas, when this happens he takes to drink badly.
+
+*** Henry Fines
+Hotel administer and a bit of a prickly pear. His duties involve berating staff, tending to the seemingly endless paperwork and phone calls, and keeping Ernesto from boring his important guests.
+A coward at heart, when times get tough he disappears and holes himself away in tears.
+
+** Travelers & Residents of the hotel
+
+*** Julia Davos
+The summoner of Dagon. Pale with should-length red hair, she looks quite tired when the investigators meet her though she would be quite beautiful otherwise. A former member of the Yanaguana Society, she has been driven insane by years of Mythos investigations and of reading /Canticum de Abyssi/. She truly believes she has found a way to help humanity out by bringing water and life to places where there is none and thus completes the summoning of Dagon. She hates the Yanaguana Society, believing them to be fools who tamper and meddle with things they cannot comprehend. She is sharp witted and knows full well the loss of life and destruction the summoning will bring, yet she hopes in the aftermath the Yanaguana Society will be wiped out and the region will renewed with a bounty of water and life. She is unfortunately only correct in the former of these assumptions.
+
+*** Alfred Hickenthorpe
+A charlatan of an inventor. Claims to have invented a device that uses the principles of radio wave transmission to harness unlimited energy. At first he attempted to understand the basic principles of radio waves from a few books on Marconi: he envisioned capturing transmitted energy from many sources in nature like the sun, or plants, or even 'the spiritual realm' (Tesla tried an failed to, up to the point of his death, to create a reliable source of wireless energy transmission, though Tesla's ideas were far more grounded in science and experimentation). The ideas went further in somehow 'transmuting' this infinite source of power to control the weather or creating a weapon to strike down anyone from afar. He was no engineer though and attempts to build such a device failed miserably. Nonetheless, he read enough and was a sharp enough talker to convince fools to invest in his ideas. He in there at the Menger trying to hawk his ideas. He is presented as a red herring if investigators believe his talk of controlling the weather. He carries in his luggage a 'prototype' that is little more than random electronic parts soldered and taped together.
+
+* PLAYER CHARACTERS
+
+** Notes for players
+There is a certain amount of adventurous disbelief on account of the players motivations to keep them in a hotel that is slowly sinking (or are the waters rising?). One would surmise an able-minded chap would simple escape to their home or emergency shelter as soon as the report of flash flooding comes in. Since all action takes place in the hotel and time is somewhat on a schedule, Keepers and Players should agree on valid reasons for their player-characters staying through till the end. Creative Keepers are welcome to ignore this and find ways to entice players back or continue adventures elsewhere. Suggestions for these motivations are included below and are part of the possible pre-generated character backstories.
+Any player whose backstory is employment with the hotel (bellhop) will start with a few advantages: keys or knowledge of the keys to certain locations off limits to non-personal and begin with the map handout, emulating the map in their heads.
+
+** Player motivations
+
+*** Traveler
+Player is a traveler on the way west, but stopped to lap in the luxury of the hotel for a few nights before the long train ride west. Player knows no where else except the nearby trainstation and a few shops on the other side of the street.
+
+*** Bellhop
+Player works as a bellboy for the hotel for a few years and knows a bit about the comings and goings. Their lodgings are on the hotel grounds itself and are forced through a sense of duty to carry out their duties and help out others.
+
+* PLAYER BEGINNINGS
+Investigators whom are not directly employed by the hotel are nearby, either from traveling (a train and bus station are nearby) or simply close by. Various hooks can be thought up as to why investigators are needing to stay at the hotel: either travelers looking to stay at a nearby hotel, perhaps their friend, employed there, can get them a discount.
+
+* ACT 1 THE CALM BEFORE THE STORM
+
+** Keeper information
+
+Act 1 kicks off the adventure at a relatively slow pace, such so they won't reasonably split when the rain doesn't seem to be letting up. Keeper should mention that it started raining late last night and hasn't let up yet.
+
+** Getting to the hotel
+
+Investigators walking to the hotel without an umbrella notice that the rainwater has a distinctly briney taste to it. Investigators can make a *Know Roll* to note that this is highly unusual (water evaporates from oceans without its salt content). Unequipped investigators could spend time shopping now as there are general stores around the plaza, a Keeper could suggest the meeting/checkin times are a few hours away.
+
+** Arrival and Checking in
+
+Investigators arriving in will be greeted with a lavish lobby with victorian sensabilities but with modern decor. Music plays through an electric gramaphone. Since various people are checking in, quite a few people are milling out the lobby chatting and laughing. This would be a good time to introduce some of the NPCs.
+
+If not previously discussed, now would be a good time to figure out room arrangements. Two can share a room and will be placed in the east wing on the third floor. Single rooms will be placed on the second floor on the west wing above the lobby. Suites are also available for a higher cost and those with a *Credit Rating* of 60% or above. Players can make arragements over payments and IOUs; however, keep in mind that they'll never get a chance to square up their bills.
+
+Players approaching the counter will be greeted by Mr. Fines. For investigators with 40% or above *Credit Rating* or *APP* above 12, check-in goes by smoothly. Investigators with lower credit ratings may need to roll a *Credit Rating* check, failing that a *Debate* roll to convince Mr. Fines they're on the level. Investigators turned away may still stay in the hotel provided they're willing to bunk with someone who does pass. If all investigators fail, Keeper may openly ask players how they expected to get a room at a nice hotel when they're all dressed as hobos.
+
+Players asking for a map of the local area or a map of the hotel will be handed the hotel-map from the handouts. Fines might highlight some areas of interest nearby to checkout, "once the rain clears up". Anything he highlights will be closed today and are of no use to the player in this adventure. Each player staying in a room will receive a key and Fines will call for a bellhop to show investigators up to their rooms.
+**** TODO add in a check to read the register
+
+*** 1920: Changing Times
+Fines might brisk at any some, unusual for the times, arrangments. Unmarried/interacial couples sharing a room will cause Fines to begin to object but eventually relent. Not without making an open statment about the changing times, however.
+
+** Heading up
+Players are shown up to their room by the bellhop. This person is obviously fishing for tips and will enthusiastically inform the player about breakfast/lunch/dinner in the dining hall, location of the pool/bar/garden, and will mention that whenever it rains all day a rainyday ball will usually be held late at night.
+Your rooms are a comfortable victorian affair, though players with a single room will note its small size. Suites are larger with a few more furishings. West windows look out to the square.
+
+** Till the Ball
+Players now have a bit of freedom to wander around the hotel, relax, read that dusty old tome they've been carting around for a few adventures, or perhaps go grab a bite to eat. It should be noted that the plaza and streets outside are now collecting a lot of water and the doorman will discourage anyone going out. Shop keepers are closing early and the streets are more or less deserted. Investigators may dash off to a general store across the plaza to buy any last-minute items; however, they will be met with a store keeper about to close the shop and will not abide any browsing. Players unable to directly state what they need will need to pass a *Fast Talk* check to look around. The store keeper wants to get home as soon as possible and will get increasingly impatient for investigators dilly-dallying.
+
+The Rainyday Ball begins at 8 o'clock and is the next major event to proceed the storyline. There are a few items of interest and events below that can be sought or happened upon. Events are in a non-specific order.
+
+*** Exploring the Hotel
+Investigators exploring the hotel without a map might get a little off track, any bellhop or waitstaff will direct investigators and mention a map is available at the front counter.
+
+**** A Bite to eat
+Food is located at the dining hall serving common breakfast in the morning, and soup and sandwiches lunch. All for a modest sum. Inquiring about dinner, waitstaff will inform investigators that it's served in the ballroom, and apparently they have something special going on tonight.
+
+**** A drink
+The bar is open and serving drinks. The bartender is rather short-spoken and will direct any questions about history or people to Ernesto.
+
+**** The library and gamesroom
+The library is a modest collection of books and magazines. Mostly common thrillers, penny-dreadfuls, and fashion mags, there is some books about local history that might be useful for reference to other adventures. Investigators can search the stacks with a *Library Use* roll, but even with a success will find no Mythos or Occult books unless the Keeper wishes.
+
+The games room contains a single billard table and a few card tables. Cards, boardgames, and billard balls and cues are stored in a tall cabinet in the corner.
+
+**** Pool and garden
+Both the pool and garden are of little interest for investigators. The pool is abandoned and overflowing. The garden once contained lively flowers and vegetables, now dying from the torrent of saltwater.
+
+*** An odd thing to wash away
+Investigators watching the rain come down outside may be asked to make a *Spot Hidden* roll. Those succeeding will see a fish among some of the refuse being washed away (SAN 0/1). Any investigator seeing this can make a Hard *Biology* roll, with a success recognizing it as a saltwater fish.
+
+*** Meeting Ernesto
+Ernesto wanders the halls seemingly lost, though will ask the same to any investigator not on a direct course. Those engauging Ernesto in conversation will be treated an archives worth of facts and ancedotes about the hotel and previous patrons. See the NPC section for more information on Ernesto. Investigators may coax some interesting information from Ernesto concerning guests at the hotel, as Ernesto knows a little bit of information about everyone staying or working at the hotel (perhaps he even knows a little bit about investigators even).
+
+*** The Ball Announced
+Sometime midday, a sign will be placed outside the Ballroom annoucing the Ball at 8o'clock. Bellhops, managers, and waitstaff will mention it to passing investigators as well.
+
+*** Relax
+Investigators wishing to just simply relax may take up a game of cards, read a book (of the non-sanity-reducing kind), or take a snooze. Kindly keepers may award a point of SAN.
+
+*** The Basement Leak
+At any point during the first day Mr. Fines and presumably a handyman will be seen rushing down the hall towards the basement storage, players making a *Listen* roll can only make out "Leak", "that basement is old", and "Why didn't you tell me this sooner?". Anyone following the duo will need to make a *Sneak* roll or will be noticed by Mr. Fines who will tell the handyman that they'll discuss this later and walk off to their normal duties. If asked directly about it, Mr. Fines will tell investigators not to worry and will answer no futher questions on the matter. Investigators with access to the basement storage or those passing their *Sneak* rolls will see the basement storage is now flooded with several inches of water.
+**** TODO Clear up what the investigator is sneaking past here
+
+*** Refuges from the storm
+Investigators hanging out in the main lobby will see a group of four or six people enter in the main entrance. They look to be homeless, but it's hard to tell since being soaked head-to-toe might give that impression. The doorman will stop them from going any further than a few steps and ask the group to leave. What starts as a sorrowful plea, as no other place was open to seek refuge, to a full on violent altercation between the doorman and the group. As soon as it starts another doorman across the hall and two bellhops step in to break up the fist fight. Investigators helping to break up the fight will get caught in the fight too. After a few combat rounds the fight will end with Mr. Fines yelling at everyone to stop at once and for the group to leave. His right arm is inside his jacket pocket, at *Spot Hidden* roll will tell it's a gun. The group reluctantly leave, but not without spitting on the ground as they walk out into the pouring rain. After the group has left and the commotion has died down, Mr. Fines relaxes and approaches the doorman, now nursing a bloody-lip. Investigators that make a *Listen* roll will hear Fines instructing the doorman to lock the doors. At this point all entrances to the outside street are now locked, with any of the doormen and Mr. Fines having keys. No one is trapped inside though, anyone asking nicely will be let out.
+Roughians
+<stats>
+
+*** Lights flicker
+Lights will randomly flicker or drop then come back. Anyone within earshot of an electric gramaphone will hear the music briefly slow down then speed back up. Investigators with phobias to certain auditory stimulae may need to make a SAN check (0/1D2).
+
+** Rainyday ball
+Any NPC of note in this scenario will attend, including Ms. Davos, finally awakening from her day-long rest.
+
+** That night
+Players going to sleep will be disturbed in the middle of the night.
+
+* ACT 2 WATERS RISING
+
+** A Cry for Help
+
+** Deep Ones Appear
+
+* ACT 3 THE RITUAL OF DAGON
+
+* HANDOUTS
+
+* LICENSE
+
+© 2015 ~ Chris Hardee <shazzner@gmail.com>
+This work is licensed under Creative Commons BY-NC-SA [http://creativecommons.org/licenses/by-nc-sa/3.0/]
+
+** Contributing
+
+Contributions are welcome to this work, if you have any issues ranging from misspelled words, grammatical and/or syntax problems, gameplay balance issues, etc. Please file an issue on github.
+
+** Translations
+
+Help translate this work into multiple languages! If you would like to please email me and I can help you add your translation to the main repository.
