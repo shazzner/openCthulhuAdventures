@@ -1,0 +1,290 @@
+
+cthulthu adventure:
+
+small adventure using 7th ed rules (from quickstart), open source
+(6th Edition until the official 7th arrives)
+
+going off the common letters clue from my ideas section
+
+involves two people, now both dead. one an elderly woman, named Edith, with a wealthy estate but living modestly, in a small house, the other an elderly lawyer named Paul retained by the woman. letters were sent to lawyer, all of them were hand-written. one of them looks different from the others, leading investigators to deduct it as an obvious forgery. It includes a will that stipulates "no matter what happens, leave everything to my children". Her previous will stipulates to leave her money to the local arts foundation.
+
+Only Edith's letters sent to the lawyer were found, all the lawyer's replies are lost (presumably they were burnt).
+
+The arts foundation, it turns out, is a front for a Hastur cult and she was a member. Unfortunately the cult had been losing money and wanted to accelerate the lady's demise for her money. Somehow the lady had caught wind of this and sent a letter to her lawyer changing her will. This was in the middle of the cult sending letters in her stead asking about the money. Once the lawyer wrote back asking what was up, they decided to send one more letter to try and cover it up then murdered both.
+
+The old lady it would seem, according to the police, died from a house break in and the lawyer from suicide by poison. Investigators can quickly surmise with minor investigation that they were both faked.
+
+As it turns out the estate held by the old lady wound up in the hands of a life insurance scheme, orchestrated by the lawyer. The lawyer that was supposed to hold it, instead embezled the funds and aquired a life insurance policy against the old lady, and got her to sign it under a jumble of legalese. the intention being that if she died the funds would become available to pay out against the will (and he would take a hefty fee). this became an issue when the insurance company balks at paying, fearing fraud. They hire investigators to check on the story. The police, in the pocket of the cult, didn't really investigate the murder throughly. Initally, purposefully writing it off to a common burgurly and the lawyer a suicide. The actual murder of both was from the deputy sheriff, proving this will be quite difficult.
+
+Interesting note I found online:
+
+On Suicide:
+"In every life insurance contract, suicide immediately voids the contract during the contestability period. A suicidal policyholder's heirs would receive no benefit from the insured's actions. However, if suicide occurs after the contestability period, the insurance company is obligated to pay the claim."
+
+On Criminal Activity:
+"Nearly every life insurance contract contains language stipulating that your policy would be considered void if death occurs as the result of your participation in criminal activity. In the case of murder, an investigation would likely be conducted by the insurance company to determine your level of involvement, if any, in the criminal behavior that ultimately resulted in your murder. If the company should believe you were a willing participant rather than an innocent bystander, your life insurance benefits would not be paid to your beneficiaries."
+
+The insurance company is under pressure by state and federal authorities and the rich benefactories to get the case right. The authorities believe that the insurance company coluded with the lawyer, and the company wants to have a clean evidence to clear themselves. The fact that she was going to donate her estate was well known to everyone as her disinheritance of her children was fairly public. The children, finding out this new will leaves everything to them (despite seemingly a forgery) don't really want to challenge it. Other than clearing their name for murder.
+
+The cult, as it turns out, had no idea about the life insurance scheme as the lawyer wasn't in their pocket which is why the letters were sent by the cult asking about it and ultimately the lawyer had to be killed. Once the fact that it was all an insurance scam came about, the cult started panicking.
+
+The insurance company initially sent an investigator, someone they usually work with up there to find out. He came back with the letters then went back up to investigator further. He was never heard from or seen again. After which, they decided to hire the players.
+
+The investigators naturally will assume it's the children who plotted this. Investigating them will eventually lead to a wild chase, hopefully some means can be added to keep them from wandering too long.
+
+The police acting as bumbling idiots change their story once they noticed an investigator is being sent, they go from trying to cover it up, then to frame the children. They found a loophole, if it can be proven the children murdered the lady for money and the money was swindled. The state would agree to hand the sum over to the institution. This is exactly they angle they hope to sell to the investigators.
+
+The players tasks are to satisfy the following:
+
+1. was Edith Peaslee deliberately murdered?
+2. was Paul Carstairs deliberately murdered?
+3. if so, who kill them?
+4. which will is the right will?
+x5. what happened to the initial investigator?
+
+Investigators that completely botch the case and fall right into the hands of the cult are rewarded with a terrible sanity destroying nightmare after turning all their evidence in. There might yet be redemption for the investigators though...
+
+If the cult (which consists of the art institute, the police, and some well known characters in the town) somehow start to believe the investigators are not buying the story, they'll start to make quick work of them. First by sabotaging their efforts, whilst still trying to sell them on the story. Finally they'll outright try to kill them.
+
+* Timeline
+
+Edith Peasely, daughter of a wealthy family, marries and has two children.
+
+Husband of Edith dies, she hires a lawyer, a friend of her husband, to take control of any legal matters involving his death. She later hands full legal control of her estate to him.
+
+Lawyer, having odd habits, decides to enroll Edith into a life insurance scam with her estate. Gets her to sign various papers to this. Lawyer largely squanders the money.
+
+Edith, interested in painting, enrolls in the art institute which is the front for a then burgening Hastur cult.
+
+Edith joins the cult, and promises to endow the cult with her estate when she dies. She stages a very public denouncement of her children and writes her will to deliver her estate to the art institute. The children being wealthy themselves through their own means, are angry and disturbed but decided not to challenge it further. Her children have very little to do with her and never speak to her again.
+
+Cult starts getting anxious for the money, as they start losing it from bribing the police, and falling membership to the art institute. They start sending hand written letters to the lawyer acting as Edith asking about the money. The lawyer tells her the money is safe in investments. The cult, in a round about way, starts asking how much money there is and starts trying to find where the money is stashed. They start asking for bank statements. The lawyer writes back with increasingly obvious dodging.
+
+Inexplicably, Edith happens to overhear plans to off her and claim her estate. Freaked out, she immediately writes to her lawyer with a new will giving everything to her children. Edith then stays home and begins fearing for her life (knowning the police are in their pocket).
+
+The lawyer receiving the letter, noticing a complete change of tone and a new will, writes back questioning this new will and the sudden change. The cult intercepts this letter and decides they would have to strike now. They break into Edith's house and stab her to death, then ransack a few things and try to stage a burgulry. Realizing they need some sort of letter to frame Edith's letter as a forgery, they send another to the lawyer. Clever investigators can discover this, as it's really a smoking gun against the presumed forged letter.
+
+A few days after, the lawyer receives the letter right as the cult poison's the lawyer's drink. It would be the last thing he ever read. A very clumsey suicide note is found on the scene. It meantions nothing about the insurance scam as the cult still knows nothing about it. This is another clue to the cult being behind it, as one would naturally assume the lawyer would mention this as guilt.
+
+After the death the police start ransacking the lawyer's office. They start to paint a picture of an insurance scam. At the same time, the insurance company is informed of Edith's death and sends an investigator to the town.
+
+The investigator starts asking question to the police and the cult finally starts to understand the whole picture. Before they can act, the investigator brings all the letters back with him and suspicions of a murder plot. Without further revealing anything else, he heads back to the town. He is never seen again.
+
+The first investigator starts uncovering the cult and the true motives behind the murder. After an attempt to bribe him away, they decide to kill him.
+
+A plan is hatched to make it seem like the children killed her for inheritance and the new will is fake. They believe they can convince the state to grant them the money after a public trial points to the children and a murder plot. They know they can get the police on their side, but they need the insurance bit squared away first.
+
+After a new set of insurance investigators show up they decide to go along with them and cooperate so long as they start building the picture they want for them.
+
+* The (False) Evidence
+
+How it Appears: The odd letter is an obvious forgery sent by the children in an attempt to be on the receiving end of the estate. It presents a clear motive for murder. This is the major bit of evidence and focused on to keep the investigators narrow minded on this fact.
+The Truth: The odd letter is the only geniue one sent by Edith. She rarely hand-wrote letters, the children were getting through life just fine, it would of been almost impossible for them to send them without a witness, they also have (almost) water-tight alabis.
+
+How it Appears: Edith was murdered by Charles, her son, he staged a burgurly, stabbed Edith and took some items. From a tip off from the police, if the investigators search the house, they will find the items. Upon finding them Charles first pleas that he had no idea what they were doing there, then after throwing them out, will only speak through a lawyer, further casting doubt on them. Somewhere along the investigation after it appears the investigators are going along with the theory that Charles killed Edith, one of the maids will come forth and say she saw Charles leave the house the night of the murder.
+The Truth: Charles did nothing of the sort. The items taken from Edith were planted by the police when they went to question him again. Once he realizes it's a set up, he starts naturally freaking out. Also, clever investigators will note the maid suddenly decided to take up painting at the art institute at the nearby town...
+
+How it Appears: The lawyer commited suicide by poisoning. There is a typed suicide note, saying he felt depressed after Edith dying and hoping to join her in the afterlife. After writing the letter he drinks some poison and dies. He was obviously guilty over scamming Edith, his secret love.
+The Truth: The lawyer having feelings for Edith is completely out of character, in fact he really didn't like her so far as to completely scam her out of her money. There is no mention of this in his suicide note, if he did feel guilty over it. In addition, the poison take by the lawyer produced a particularly painful and grisly death, not something one would take for suicide. The cult realizes this is probably their flimsiest bit of evidence and will entertain any wild theories the investigators come up with so long as it doesn't point to it being orchestrated by anyone but the children. In suicide note, he states, "and I sacrifice myself..." which is a very odd thing to say. A cultish slip, as it were.
+
+How it Appears: The will accompandy by the odd letter is obviously fake. The real will was the one Edith made to the art institute.
+The Truth: The odd will is the real one, Edith found out she was going to be murdered for the money and rewrote it.
+
+How it Appears: the initial investigator skipped town with a lot of money. Presumably bought off by Charles, as the maid will attest. His room at the hotel is empty with an unpaid bill. Talking to the hotel clerk will reveal he was last seen asking directions to Charles' house.
+The Truth: The investigator was killed off by the cult once the started asking the wrong questions and finally piecing the real truth together. He was on his way to meet with Charles to explain his finding and that he might be set up. He was intercepted along the way by the police, taken to the temple underneith the art institute, and sacrificed to Hastur. His body is currently decomposing on the alter there.
+
+* The People & Places
+
+** Places
+Sansbury - Small town being taken over by a Hastur cult, where the majority of the adventure takes place
+Sansbury Arts Foundation - A non-profit school for arts, includes painting, sculpture, various crafts, theatre arts, and performance art. Secretly the head quaters for a Hastur cult sect called the Amber Fellowship, originally named for the acting troupe many of the founding members were a part of.
+Erie Insurance Company - Insurance company that initially contacts the investigators. A couple of years ago, Paul Carstairs, lawyer to Edith Peaslee, took out a life insurance policy in Edith's name. This under normal circumstances would be totally acceptable, however this was done so Paul could embezzle Edith's vast estate hoping the life insurance policy would still be good when she died to carry our her will. After they both die, there is state and federal pressure, in addition to pressure from locals of Sansbury to see to it, that this mess is cleared up and the money goes to the right people.
+Dimes Hotel - A three story hotel that Diego checked into and the last lead to his whearabouts.
+
+** The Innocents
+Charles Peaslee - Son of Edith Peaslee. Partially owns a factory producing train parts, partnered with a friend from college. Has a bad habit of appearing completely guilty, when in fact innocent. Was at home the night of murder and seemingly could rely on his maid to testify for him.
+Elanore Peaslee - Daughter of Edith Peaslee, she reads often and has a large collection of murder-mystery novels. Works with her brother at the factory as an accountant and owns a small house near her brother. Is having an affair with a local cafe waitress, which is unfortunately quite frowned upon at the time. Went out to meet her lover on the night of Edith's murder, will not admit the full extent of her relationship unless threated with arrest.
+Hotel Clerk - (Simon Fink, if a name is required) Hotel clerk at the Dimes hotel. The hotel clerk working at the front desk is the last friendly person to see Diego alive. Reports seeing three police come in the next day and leave with two duffel bags.
+Jacob Erie - Insurance Boss, trying to sort out the mess of the insurance scam involving Edith and Carstairs as his company's reputation is on the line. First sends Diego to investigate, after he disappears, hires one of the players characters.
+Edward Diego - Investigator initially hired by Jacob Erie to investigate, asked to find the will after learning Edith died. Returned back with some letters, which might be considered evidence.
+
+** The Cultists
+Edith Peaslee - cultist herself until discovering the plot against her, now a tragic victim of the cult with people fighting over what's left of her money
+Ellen Quillin - cult leader and in charge of the art institue, former actress worked with Harrow
+Robert Harrow - second in command, playwrite, discovered the Hastur cult and The King in Yellow during the war as a traveling theatre production outfit for the troops
+Maid Miriam - student at the art institue, paints in her quarters after hours. Was paid quite well to claim she saw Charles leave on the night of the murder and that the lone investigator came to charles' house the night before he disappeared and received what looked like a large sum of money
+Rodderick "Red" Feins - Deputy Sheriff and murderer of Edith and the Lawyer, is paid handsomly by the cult to keep their actions secret and to be their go-to guy. Quiet psychopath, very brutal, utterly insane. May posses some limited spellcraft.
+Sheriff Rowley - Very personable and will cheerlead and try to direct the investigators towards their version of the story.
+
+* Quotes
+
+"Small towns like this have a way of hiding secrets, don't trust anyone."
+
+
+
+* Introduction
+
+
+* Keeper Information
+
+* Investigator Information
+
+* Investigation
+
+** Erie Insurance Company
+
+Investigators arrive to find the company boss nervous and sweating. He quickly explains to them that time is of the upmost importance. Roughly a week ago they received word that one of their clients has died and to go about proceedings regardling their life insurance policy. Investigators that ask will be informed that this initial word came from the state that keeps track of death certificates and life insurance policies. The client being a Mrs Edith Peaslee, with a Mr Charles Carstairs being the lawyer representing her. Jacob then sent its lead investigator Eddy, to retrieve the will, check for anything suspicious, and to report back any findings. Routine for this case, although the insurance policy being given to the heir as stated by the will was an unusual but perfectly fine request (normally a benefactor is named, which avoids the needs for lengthy will contestation periods).
+
+So far so good, when suddenly Eddy showed up late at night when he knew Jacob was going to be working. He seemed distressed and serious. He said he thinks this was all a setup for fraud and we're going to get the blame for it, he also said: "Edith was murdered purposefully and these letters prove it" and handed Jacob an envelope which contains six hand-written letters. After that he took a swig of brandy and starred off into space, then started saying he thinks there's something bigger but he doesn't believe it himself and needs more evidence. Before Jacob could really question Eddy, he interrupts him saying to focus on keeping everything cool and to keep those letters safe. "People died for those letters and more people will if you don't keep them safe".
+
+Jacob goes on to explain that the next day he started getting swarmed with calls from the DA, the press, the Sansbury police, etc: about Edith and news that Charles Carstairs was discovered to have died from suicide. The DA explains that this case is under investigation for insurance fraud and several congressmen want to make an example out of him to boost their careers. The original will was supposed to hand over the estate to "a local charity"; however, her will changed a few days before she died and now it's supposed to go toward their children, once locals found out they were furious which lead to higher ups finding out etc. Everyone thinks this new will is suspect. Their problem is this: if they balk at paying there's probably going to be a lynch mob after the company, if they pay up now without any evidence it basically shows we were complicit with this fraud and our reputation will be shot and eventually get screwed either way. The investigators will need to reconstruct exactly what happened and why in order to clear the company and possibly shine some light on the whole case.
+
+Listening to Eddy's advice Jacob retrieves the letters from a safe and sets them out before the investigators. All six letters are addressed to the lawyer Carstairs, the first four start with some small pleasentries then start asking about her considerable estate savings (where is the money? (mostly tied to investments) how much is it? (hard to say) why is it hard to say? (I'm not a numbers person, probably high with how well the stock market is going) I'd like a complete financial statement of the accounts (I'll work on that may take a while, you should consider going on holiday) etc). The fifth letter is a complete change in tone, it's very terse and basically says, "attached is my new will, please disregard the previous one. leave everything to my children: Charles and Elanore". The final letter first states "what do you mean I sent a new will? I never did. Please explain also can you send over the financial statements as soon as possible". Anyone making a INT check, Spot Hidden, or any other basic roll (be generious, even if they fail it). Will noticed the writing is clearly different on the fifth letter. Let the investigators elaborate on the discovery. After hearing all of this, Jacob will state that there does seem to be something up.
+
+Jacob explains the investigators will need to discover the following:
+
+1. which will is the right will?
+2. was Edith Peaslee deliberately murdered?
+3. was Paul Carstairs deliberately murdered?
+4. if so, who kill them?
+
+Though, not tied directly to the case:
+
+5. what hell happened to Eddy?
+
+Find the answers to each of these question with some sort of proof and bring back Eddy if possible. This has to been done in a week, that's when the first DA meeting is and he can't buy anymore time. Do this and each investigator will get paid 350$ (1990s: 5,000$). He askes if there are any questions.
+
+Investigators can attempt to take the letters with them with a very convincing persuation (this will prove to be a terrible mistake though) and a successful roll. SAN points or other gifts can be awarded for asking good questions, like Edith and Charles' address, Eddy's description (or his car), more info about the town, a place to stay (he'll arrange some hotel rooms for you), small expenses. After all of this he will then phone the local train station and buy the investigators tickets, he says the last place Eddy stayed at was the Dimes Hotel and that would be a good place to start or with the police station as the police chief requested to speak to the investigators first thing.
+
+Before everyone leaves he'll state, "Small towns like this have a way of hiding secrets, don't trust anyone."
+
+Travel to Sansbury is entirely uneventful either by car or train. This would be a good time to discuss plans on what to do when they get there.
+
+** Town of Sansbury
+
+This town could theortically be located anywhere in a remote area about an hour away from a major city. For the purpose of this scenario, it's an hour southeast of San Antonio. It was founded by Parisian immigrants, growing basic crops. Sometime in during the turn of the century, rich wealthy artisans decided to retire to this city and more or less take it over. They arrival brought some means of local economy. After two decades, it turned into a sort of hidden mecca for well-off artists to retire to, including a few well known names. Dispite it small size and population it was afforded a rather lively mainstreet complete with modern art deco stylings. Its underside includes a rather vicious cult that arrived a decade ago and slowly gained influence through bribes and wealthy patrons.
+
+Likely places investigators will being with are the Dimes Hotel (at least to check into their hotel) or going directly to the police station.
+
+** Dimes Hotel
+
+Investigators arriving here for the first time with luggage will have a bell hop immediately come and collect their bags. The hotel clerk is on the phone but will usher them over to the front desk. The hotel isn't terribly large but has a nice moderness to it. The louge area has tables and seating, there is a small bar off to the side. There is one elevator with a spiral staircase wrapping around it. The hotel clerk will warmly greet the investigators and welcome them to Sansbury. If investigators were smart enough to get hotel arrangements ahead of time with Jacob, saying the Erie Insurance Company will get them all rooms, otherwise it's 10$ a night.
+
+If asked about Eddy, the hotel clerk will reply that he cannot give out information about other guests. If a case is made and possibly a fast talk roll is given he'll say that he remembers the man and he was only here a week ago. That he left the night before he was going to check out and never returned. If pressed further, he'll say that the day after that three police officiers came to the hotel to search the room he was staying in. They left with a few duffel bags and quickly settled the bill and said if the hotel clerk sees the man again to inform the police immediately, they wouldn't elaborate why. The maid reported that the room was empty and went on with her cleaning duties.
+
+*** Major Clue
+Hotel Clerk testimony that police left Eddy's room with presumably things, if later testimony is to be believed that he skipped town, why would he leave all his stuff there?
+
+** Police Station
+
+Investigators might stop by here first or soon after arrival, otherwise they might be told to come here by other officiers, or possibly by force. The police station is another new built modernist building, complete with marbel floors. The clerk will greet them and whatever they say the clerk will gather that these are the investigators as pretty much all the police are on the lookout for them. The clerk will inform to speak to the chief immediately and be ushered in quickly.
+
+*** Sheriff Rowley
+
+The Sheriff is good natured and cheerful and will act as the investigators best friend.
+
+** Edith's House
+
+Edith's house is down a street off mainstreet and close to the Sansbury Art Institute. It is currently the scene of a crime. Investigators arriving there will see an officer stationed outside the house and frequently patrolling. Unless they sneak up or it's dark, they'll be spotted and the officer will confront them. If they've spoken to the chief beforehand he'll escort them around, but will inform them under no circumstances are they to touch anything. He's also sure to keep them in sight too, though he might be distracted and another investigator run off. This won't last long though.
+
+Broken window, glass is embedded in the dirt.
+
+*** Major Clue
+Most of the paperwork containing any of Edith's handing writing has vanished from the house by the police. She mostly used the typewriter for corespondence as there are several type-written papers around the house. At the bottom of one waste bin (or wherever) lies a recipt for typewriter repair for the week she wrote her letter to Carstairs. On this recipt will be a signiture that if studied with someone skilled in forgery will determine as looking exactly like the signature on the fifth letter. Else where in the house in another similar location will be a simple recipt for milk delivery, signed with the same signature. Both of these will be major evidence pointing to the fact that it is the fifth letter that's genuine.
+
+** Edith's Children
+
+Both Charles and Elanore live out the outskirts of town. On large section of land sits a large house that's currently being occupied by Charles, close by is another much smaller house where Elanore lives. Unless investigators plan to walk for two hours, they better find a car or means of transportation over there.
+
+** Charle's House
+
+Charles lives in a two story (three if you count an attic) spacious house. Once owned by Edith and her husband, Edith wanting to live on her own, agreed to let Charles take care of the house and in return Charles had built a house closer in the city. The only real clues to be found here are Charle's and Marian's testimony, as the murder took place nowhere near this house nor did Charles, Elanore, or even Marian have anything to do with it.
+
+*** Charles
+
+Charles is the head of a manufacturing company and will absoluately not take well any accusations or insinuations that he had anything to do with Edith's murder. Investigators without any sort of warrant and with an accusatory line of questioning will be asked to leave at once. Even with a warrant he will be unhelpful. With a police officer accompanying the investigators, Charles will be on the phone with his lawyer in an attempt to remove them.
+
+If polite and with a good story, Charles will talk. He has no explination for the new will other than Edith simply changed her mind on the matter. He will explain that she wasn't a hateful person just a bit odd, especially after joining the art institue. If asked about his disinhertiance, he will state that she is obligated to do so but her whole public disinhertiance felt very 'acted'.
+Charles is extremely protective of his sister and love her very much. Any question about her will upset Charles.
+
+*** Major Clue
+
+If asked directly if he has any hand-written correspondence from Edith, Charles will state (if he hasn't been upset) that he doesn't believe so and that Edith usually always typed her letters. This isn't true, there is a hand written note written by Edith currently being used as a bookmark for a copy of Thus Spoke Zarathustra. The note was written by Edith when she visited Charles when he was away, it states that she tried to deliver a box of ornaments that had mistakenly be delivered to her house by the movers. She did and the box was delivered the next day and currently resides in the attic. It is signed Edith and the copy look remarkably like the fifth letter. This book is lying on a table in his library or whever the Keeper decides to place it. As soon as the note is pointed out to Charles he will remember the note, otherwise he will be sent to the gallows if tried for Edith's murder without remembering it.
+
+*** Miriam
+
+Miriam is Charles best and worst alibi. She was working for him the night Edith was murdered and if Charles' is asked about his alibi will summon Miriam who will vouch for him. Miriam has been full indoctrinated by the cult however and has specific instructions to frame Charles. She will be waiting by the car or gate for investigators to find on their way out of the house. She will state that Charles is lying about staying in and left right around the time of the murder. Just enough to slip out murder Edith and return, and that Charles promised to give her money after he receives Edith's fortune in exchange for being his alibi. Miriam is a terrible liar and will forget some details or not understand motivations. If interrogated her story will get longer and longer and soon not make any sense. She will not reveal the cult but will simply storm away if questioned too much.
+
+** Elanore's House
+
+Elanore lives in a small cottage a short walk from Charle's house. Elanore will not offer any clues or help the investigators but to only clear Elanore if questioned enough. Inside Elanore's house lies a library full of crime and detective fiction that might cast some suspicion on her.
+
+*** Elanore
+
+If asked for an alibi she will state she stayed in reading all night. This isn't true. Elanore is secretly seeing the waitress at le grand cafe in the middle of the town. She went to go see her that night Edith died which can be corraborated by the waitress and the waitress's roommate. She is deeply secretive of this for personal reasons and will not reveal this fact but only up to the point of arrest.
+
+** Police Station part 2
+
+Depending on where the investigators are and if Rowley knows about the letters, he might soon call then back to the station to get them to go along with his story.
+
+*** Whodunnit
+
+Chief Rowley will try to get the investigators to buy along a story that the children murdered Edith. He will take charge of the investigation if he feels he needs to sell a story and will threaten them if they stop buying it. If the letters are revealed to him he'll want these as soon as possible and if not freely given over by the investigators will arrest them for withholding evidence and obtain a warrant to retrieve them by the next day.
+
+Here's how he'll explain away the murders:
+
+1. Charle's and Elanore murdered both Edith and Paul, Edith's lawyer.
+
+Charles drove out to Edith's house, knocked on the door, had Edith let him in under some sort of feigned emergency where he stabbed her several times in the stomach. He then grabbed some items he thought would be worth money and smashed the window out. He then climbed out and proceeded to walk along for sometime then headed home.
+Elanore entered Paul's office and put rat poison (methyl bromide) into Paul's brandy which she knew he drank often. As for how and why, things start stretching. She apparently learned how to pick locks from her detective/crime books and since she had no idea when he would drink the poison, she had to call him up and convince him with some story that would get him to drink it. After which she came in, put the suicide note down and removed any writings that would show the note as a forgery.
+
+2. Why?
+
+For the money, even though neither one needed it nor did they hate their mother.
+
+3. Which will is the right will?
+
+Why the original one that leaves everything to the art institue! Which is a complete lie, the right will is the one leaving everything to their children, but no matter after the very public criminal trial the state will pass a law allowing the art institute to receive the money anyway.
+
+4. What happened to Eddy?
+
+Possibly Charles paid off Eddy after he started asking him questions, which he then flew town with. Except all of Eddy's stuff is in two duffel bags inside the temple and he wouldn't leave town without packing first. Also the insurance boss will think this is simply impossible as Eddy cared little for money and had a deep philosophical attachment to justice.
+
+Rowley will try to be friendly at first. Investigators going along with this story and not questioning it, will be mightly apperciated by Rowley. He'll either ask them to go retrieve the letters as they're evidence in this case or if he thinks there might be trouble ask them to stay for a night then try to murder them.
+
+** Sansbury Arts Foundation
+
+The art foundation is an old brick building that hides a terrible secret. For underneith lies a large multi-room dungeon-like temple. Entrance to this temple lies at the back of a storage room, behind a large painting. Clues to this can be found in two places: the administration office and the janitor's closet. There is a key in the desk of Ellen that is unmarked but when compared to the marked keys in the key cabinet will show it's a key for the storage room. Another clue can be found in the janitor's closet (or elsewhere) saying that the general storage room is off limits to anyone. Finally if there is no one else in the building a Listen roll can determine a source in the direction of the storage room.
+
+*** Storage Room
+
+The door is locked to the storage room. Only two keys, one in the key cabinent and one in the desk of the admin. It can be lockpicked. Dispite being off limits, only the shelves are dusty with the painting in the back (covered with a canvas) blocking the door. The painting itself is completely blank but heavy. Moving it out of the way reveals a door that's unlocked which opens to some stairs leading down. Upon opening the door, a small business card will flutter out. The card is unimportant, but this is set so anyone can tell if someone has opened the door. Investigators will not be able to know where it's supposed to be set. The clock is ticking when investigators go down, as Ellen decided to come out at night to try more 'experiments' with the sacrifice. If investigators leave before going down, Ellen will find out in an hour and order the police to capture the investigators.
+
+*** Temple
+
+See map details on the general layout, the only major room is the largest, the sacrificial room and the study.
+
+*** Study
+
+On a table lies a large tomb with some papers next to it trying to translate it. Investigators that skim it will learn the corpus ignatus spell (0/1D3).
+
+**** Corpus Ignatus
+
+This spell requires a user to burn themselves with flame while pointing to a creature and saying:
+SHWRUGNTHATWA (shi-rug-nith-ah-teh-wa), this will cause the target to burst into flames causing immediately 1D3 damage. If it sets them on fire it'll cause an additional point of damage every round until they can extinguish the flames. As the person reads further into the book, they'll discover the damage is exponetionally proportional to the self infliced harm but will only work from fire. Having your arm burnt off can cause an entire house to burst into flames. Jumping into a pit of lava and shouting it can cause a city to burn.
+
+*** Sacrifical Room
+
+At the far end of the room lies a statue to their god and beneth that lies an alter where poor Eddy is slowly dying at. He's been sliced open at the abdomen, seppuku like, and his entrails are spread out. He's also nailed to a wooden portion. There is nothing the investigators can do to save his life, but he does have a few words left in him. Seeing Eddy will cause a sanity check (2/1D8).
+
+"She's mad, they're all mad, the police, this whole town is corrupt...tell Jacob this...Alas, Babylon...now go, get out while you still can...", Ellen will interrupt here, she came down here as the investigators were bumbling around.
+
+She summons a shadow ghoul, an invisible ghoul that will hunt down the investigators and kill them. She has locked the door out, hid the key in one of the blood urns, and will kill herself before the investigators will kill her.
+
+** Escaping from Town
+
+* Potential Plotholes
+The Keeper knows the police controls pretty much everything in the town. So why would they bother to involve investigators when they can frame the two children on their own?
+My (bad) reasoning is that the police don't want to any attention drawn to them directly through this insurance fraud scheme and the attention it's bringing. They know with Eddy gone they're probably not going to be satisfied if they're shooed off directly. If they can get the investigators to play along, they won't have to be directly involved in the spot light. If they don't play along, then it's back to getting rid of them and presenting framed evidence.
+
+Who isn't to say the cultist didn't forge the typewritter recipt and the milk delivery?
