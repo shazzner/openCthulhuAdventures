@@ -199,7 +199,8 @@ Investigators around the lobby will see Peter King insisting on getting some sle
 
 *** Venturing Out
 
-Investigators might try to leave after they've settled in. Unfortunately the rain has only gotten worse and the streets are visibly flooding. If the doors have not yet been locked (see the next section), otherwise they're free to go. The streets are difficult to traverse and navigate in the storm, a successful *Navigate* roll will locate the drugstore if they've been tasked by Peter King.
+Investigators might try to leave after they've settled in. Unfortunately the rain has only gotten worse and the streets are visibly flooding. If the doors have not yet been locked (see the next section), otherwise they're free to go. The streets are difficult to traverse and navigate in the storm, if investigators did not ask where a certain shop could be found: a successful *Navigate* roll will be needed to locate it. Such as the drugstore, if they've been tasked by Peter King. A general store, which sells guns and ammunition will need to be asked about or found as well. A successful *Luck* roll will be needed to see if any store is open otherwise they've closed once the flooding began. The drugstore has the exact sleeping aid Mr. King has asked for. This will be the last opportunity to purchase something in a store until the flooding gets too bad.
+**** TODO is navigate an actual skill?
 
 *** Refuges from the storm
 
