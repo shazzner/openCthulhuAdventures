@@ -13,7 +13,7 @@ Taken Before the Flood was invisioned when reading a blog post on tips for Keepe
 
 *** Length
 
-Hopefully one session. The span of the adventure will take place in one location over the span of three in-game days.
+Hopefully one session if investigators blaze through it, though more likely two to three. The span of the adventure will take place in one location over the span of three in-game days.
 
 ** SETTING
 
@@ -22,7 +22,7 @@ Hopefully one session. The span of the adventure will take place in one location
 This scenario was invisioned for the Call of Cthulhu classic 1920s era, though with a few changes here and there would adapt to a modern or gaslight scenario. Common problems like smartphones can be cleverly avoided due to the sheer amount of electronics-destroying rain and futuristic technologies such as radios and gramaphones can be easily substituted by live music. Tips for adapting this scenario to other eras are included in the adventure text.
 
 *** Mood
-
+n
 Players or Keepers wishing to enliven the mood are suggested to loop a rain soundscape, as the rain and thundar will not stop until the adventure is completed.
 
 ** KEEPER INFORMATION
@@ -39,7 +39,8 @@ At approximately 7pm yesterday evening: a book of the rarest sort, /Canticum de 
 
 *** /Canticum de Abyssi/
 
-The book used for the summoning ritual is filled with terrifying Mythos power. An ancient book, it is mostly sheets of papyrus sandwiched between hand carved wooden slats. It can be considered to a sibling book to /The Book of Dagon/ so coveted by the Esoteric Order of Dagon, in Innsmouth. It was written by an entirely separate adventurer encountering the Kanak tribe, that worshiped the deep ones. Written in Latin, with mentions to an emperor that doesn't exists in history books, it describes how to summon Dagon through a series of rituals within rituals. The book is quite fragile and clumsy or unlucky investigators carrying the book can render the book wet and ruined if not careful, though it could be easily argued that this book being destroyed is a win for humanity.
+The book used for the summoning ritual is filled with terrifying Mythos power. An ancient book, it is mostly sheets of papyrus sandwiched between hand carved wooden slats. It can be considered to a sibling book to /The Book of Dagon/ so coveted by the Esoteric Order of Dagon, in Innsmouth. It was written by an entirely separate adventurer encountering the Kanak tribe, that worshiped the deep ones. Written in Latin, with curious mentions to an emperor that doesn't exists in known history books, it describes how to summon Dagon through a series of rituals within rituals. The author had the intelligence to see deep mechanics at play, the underlying forces behind the madness, to create a hyper condensed Summoning of Dagon. To intelligent investigators, they too can understand these inner workings, and with that be able to reverse the machinations to un-summon Dagon.
+The book is quite fragile and clumsy or unlucky investigators carrying the book can render the book wet and ruined if not careful, though it could be easily argued that this book being destroyed is a win for humanity.
 Investigators wishing to read the book require a successful *Latin* roll and a Sanity check: 1D4/2D6. Investigators failing this check will sincerely believe this book can be used help humanity, by creating a portal to water and life anywhere on the earth, as Ms. Davos believed. Investigators wanting to comprehend its full contents will need an entire week to study it. It adds 8 points to an investigators *Cthulhu Mythos*, costs 1D12 Sanity, and contains the Summon Dagon spell.
 
 *** Flow of time
@@ -72,7 +73,7 @@ A coward at heart, when times get tough he disappears and holes himself away in 
 
 **** Julia Davos
 
-The summoner of Dagon. Pale with should-length red hair, she looks quite tired when the investigators meet her though she would be quite beautiful otherwise. A former member of the Yanaguana Society, she has been driven insane by years of Mythos investigations and of reading /Canticum de Abyssi/. She truly believes she has found a way to help humanity out by bringing water and life to places where there is none and thus completes the summoning of Dagon. She hates the Yanaguana Society, believing them to be fools who tamper and meddle with things they cannot comprehend. She is sharp witted and knows full well the loss of life and destruction the summoning will bring, yet she hopes in the aftermath the Yanaguana Society will be wiped out and the region will renewed with a bounty of water and life. She is unfortunately only correct in the former of these assumptions.
+The summoner of Dagon. Pale with shoulder-length red hair, she looks quite tired when the investigators meet her though she would be quite beautiful otherwise. A former member of the Yanaguana Society, she has been driven insane by years of Mythos investigations and of reading /Canticum de Abyssi/. She truly believes she has found a way to help humanity out by bringing water and life to places where there is none and thus completes the summoning of Dagon. She hates the Yanaguana Society, believing them to be fools who would squander all the knowledge and wisdom the mythos can reveal. She is sharp witted and knows full well the loss of life and destruction the summoning will bring, yet she hopes in the aftermath the Yanaguana Society will be wiped out and the region will renewed with a bounty of water and life. She is unfortunately only correct in the former of these assumptions.
 
 **** Alfred Hickenthorpe
 
@@ -80,7 +81,11 @@ A charlatan of an inventor. Claims to have invented a device that uses the princ
 
 **** Lillian and Ronald Pierce
 
-Oil was and is a huge commodity for Texas and the nation, and Ronald Pierce owns a fair share of it.
+Oil was and is a huge commodity for Texas and the nation, and Ronald Pierce owns a fair share of it. He recently finished up an oil deal that will increase his profits handsomely though he feels he could have held out and gotten a better deal. Greedy, egotistical, and selfish the only thing he truly cares about beyond money is his daughter, Lillian. Lillian is 15 and is traveling with her father on his instance to learn business and negotiation, though her passion is card games. Quite unlike her father and despite being forever spoiled: she is friendly, charming, sharp. Only in a game of poker are all bets off.
+
+**** Peter King
+
+An insurance salesman, he's been recently informed of his failing health. He's decided to rest at the hotel for a week to try and feel better. A light sleeper, he asks the hotel clerk for sleeping aids to sleep through the storm. If acquired he will fall asleep and drown as the water fills his first floor room.
 
 ** PLAYER CHARACTERS
 
@@ -172,6 +177,7 @@ Investigators watching the rain come down outside may be asked to make a *Spot H
 *** Meeting Ernesto
 
 Ernesto wanders the halls seemingly lost, though will ask the same to any investigator not on a direct course. Those engauging Ernesto in conversation will be treated an archives worth of facts and ancedotes about the hotel and previous patrons. See the NPC section for more information on Ernesto. Investigators may coax some interesting information from Ernesto concerning guests at the hotel, as Ernesto knows a little bit of information about everyone staying or working at the hotel (perhaps he even knows a little bit about investigators even).
+**** TODO what did I mean by 'perhaps he even knows a little bit about investigators even' ?
 
 *** The Ball Announced
 
@@ -186,9 +192,21 @@ Investigators wishing to just simply relax may take up a game of cards, read a b
 At any point during the first day Mr. Fines and presumably a handyman will be seen rushing down the hall towards the basement storage, players making a *Listen* roll can only make out "Leak", "that basement is old", and "Why didn't you tell me this sooner?". Anyone following the duo will need to make a *Sneak* roll or will be noticed by Mr. Fines who will tell the handyman that they'll discuss this later and walk off to their normal duties. If asked directly about it, Mr. Fines will tell investigators not to worry and will answer no futher questions on the matter. Investigators with access to the basement storage or those passing their *Sneak* rolls will see the basement storage is now flooded with several inches of water.
 **** TODO Clear up what the investigator is sneaking past here
 
+*** Searching for Sleep
+
+Investigators around the lobby will see Peter King insisting on getting some sleeping aid, as a light sleeper he feels he won't be able to sleep through the storm. The hotel doesn't have any sleeping aids on hand, but Mr. King will insist. If it's early in the day the hotel will fetch staff to go purchase it from a local store. If it's later in the afternoon the hotel will be reluctant to send someone out when it's obviously flooding. An investigator can volunteer here and Mr. King will give the investigator 5$ to purchase "Missus Timmons Quality Sleeping Draught" and to keep the change (it costs 1$). Investigators taking up this task will need to venture out. See the section on Venturing Out for more details. King will wait in the lobby for an hour then go to his room feeling cheated. He'll leave a note at the lobby for the returning investigator directing him to his room. Sincere gratitude is rewarded if the sleeping aid is delivered.
+**** TODO Peter Kings room #
+
+*** Venturing Out
+
+Investigators might try to leave after they've settled in. Unfortunately the rain has only gotten worse and the streets are visibly flooding. If the doors have not yet been locked (see the next section), otherwise they're free to go. The streets are difficult to traverse and navigate in the storm, a successful *Navigate* roll will locate the drugstore if they've been tasked by Peter King.
+
 *** Refuges from the storm
 
 Investigators hanging out in the main lobby will see a group of four or six people enter in the main entrance. They look to be homeless, but it's hard to tell since being soaked head-to-toe might give that impression. The doorman will stop them from going any further than a few steps and ask the group to leave. What starts as a sorrowful plea, as no other place was open to seek refuge, to a full on violent altercation between the doorman and the group. As soon as it starts another doorman across the hall and two bellhops step in to break up the fist fight. Investigators helping to break up the fight will get caught in the fight too. After a few combat rounds the fight will end with Mr. Fines yelling at everyone to stop at once and for the group to leave. His right arm is inside his jacket pocket, at *Spot Hidden* roll will tell it's a gun. The group reluctantly leave, but not without spitting on the ground as they walk out into the pouring rain. After the group has left and the commotion has died down, Mr. Fines relaxes and approaches the doorman, now nursing a bloody-lip. Investigators that make a *Listen* roll will hear Fines instructing the doorman to lock the doors. At this point all entrances to the outside street are now locked, with any of the doormen and Mr. Fines having keys. No one is trapped inside though, anyone asking nicely will be let out.
+
+**** TODO add stats
+
 Roughians
 <stats>
 
@@ -197,9 +215,40 @@ Roughians
 Lights will randomly flicker or drop then come back. Anyone within earshot of an electric gramaphone will hear the music briefly slow down then speed back up. Investigators with phobias to certain auditory stimulae may need to make a SAN check (0/1D2).
 
 *** Rainyday ball
-Any NPC of note in this scenario will attend, including Ms. Davos, finally awakening from her day-long rest.
+
+Any NPC of note in this scenario will attend, including Ms. Davos, finally awakening from her day-long rest. The ball will take place at the hotel's grand ball room. Dinner is served and a popular jazz band is playing. As investigators arrive they will be seated together at a table close to the band. Though lighting will storm outside and the lights will flicker momentarily throughout the event: the band will play on. Dinner consists of a choice of steak or fish with flan for dessert. Investigators are encouraged to get up and dance, the music is great and lively. Investigators brave enough to dance will have fun and recover 1 point of SAN.
+
+**** Listening in
+
+Various conversations can be eavesdropped on, though it might be difficult to tell who said what to whom. This will also depend on where the investigator is in the room though Keepers can pretend all the conversation is around them and make it audible from their table. All the investigators can each make a *Listen* roll. Read aloud one of the following snippets of conversation for a normal success, a hard or extreme success will reveal exactly who said it:
+
+"I've been watching it outside, the city is flooded..." - Random guest
+"Check out the red-head by the bar over there!" - Random guest (location anywhere)
+"Let me tell you about the future of communication, hell I can even contact the dead with the power of scientific method!" - Mr. Hickenthorpe (schmooing around the bar area)
+"I tell you, I saw a fish wash down the street!" - Random guest
+"That man is an idiot and a charlatan" - Random guest pointing at Hickenthorpe
+"They say the rain brings the dead closer to our world" - Ernesto spooking a random couple
+
+Keepers are free to add their own.
+
+Ms. Davos will be drinking by the bar, completely engrossed in her own thoughts and conscious. If questioned she will just mumble some quick dismissal. If she continuously pestered, she will snap out of it briefly and tell whomever to buzz-off. The bartender will intervene afterwards.
+
+Hickenthorpe will gladly talk your ear off over his revolutionary invention, especially if he notices, or an investigator ventures, any wealth status. He states his intention to demonstrate his invention tomorrow afternoon as he intends to setup a small 'demonstration' in the parlor. If *Persuaded* or bribed (to the tune of 20$ to show your commitment) he will give you a private demonstration tomorrow morning in his room, and gives you his room number. A hard or better success on the *Persuasion* roll might convince him to show it privately after the ball, but if the investigator is a woman he'll certainly take this the wrong way.
+
+Peter King will be quietly eating by himself.
+
+Ernesto is wandering around the room telling ghost stories and generally being charming.
+
+**** The lights go out
+
+As the night go on, and after all the investigators have picked up all or most of the clues given out: the poor overworked power mechanism will finally give out and plunge the room into almost complete darkness. Frightened gasps and cries will be let out, the band stops abruptly. A pause stretches out in the room as people wait to see if the power will kick back on. It does not. Some minor panic will sweep the room as people trip and knock into things. A few minutes later several hotel staff will enter the room carrying candle lamps. Mr. Fines will materialize onto the stage as he lights a lamp, he will try to calm the guests down and inform them that the staff will carefully take them back to their rooms, and to please be patient as they do so. Most of the panic will die down at this point. Staff carrying lamps will go from table to table to escort them back to their room. If the investigators are seated together, they'll be guided back soon after.
+
+**** The trip back
+
+Investigators will notice the first floor carpet is wet, water can be heard dripping in places unseen throughout the hotel. If an investigator looks outside they will see the streets completely flooded past the doors to shops and coming up to the windows. The hotel is raised off the ground a bit so the water has only reached the door.
 
 *** That night
+
 Players going to sleep will be disturbed in the middle of the night.
 
 ** ACT 2 WATERS RISING
