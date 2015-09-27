@@ -200,7 +200,7 @@ Investigators around the lobby will see Peter King insisting on getting some sle
 *** Venturing Out
 
 Investigators might try to leave after they've settled in. Unfortunately the rain has only gotten worse and the streets are visibly flooding. If the doors have not yet been locked (see the next section), otherwise they're free to go. The streets are difficult to traverse and navigate in the storm, if investigators did not ask where a certain shop could be found: a successful *Navigate* roll will be needed to locate it. Such as the drugstore, if they've been tasked by Peter King. A general store, which sells guns and ammunition will need to be asked about or found as well. A successful *Luck* roll will be needed to see if any store is open otherwise they've closed once the flooding began. The drugstore has the exact sleeping aid Mr. King has asked for. This will be the last opportunity to purchase something in a store until the flooding gets too bad.
-**** TODO is navigate an actual skill?
+**** TODO is Navigate an actual skill?
 
 *** Refuges from the storm
 
@@ -229,7 +229,7 @@ Various conversations can be eavesdropped on, though it might be difficult to te
 "I tell you, I saw a fish wash down the street!" - Random guest
 "That man is an idiot and a charlatan" - Random guest pointing at Hickenthorpe
 "They say the rain brings the dead closer to our world" - Ernesto spooking a random couple
-
+"Oil is never going to lose its value, it'll only go up" - Ronald Pierce by the bar
 Keepers are free to add their own.
 
 Ms. Davos will be drinking by the bar, completely engrossed in her own thoughts and conscious. If questioned she will just mumble some quick dismissal. If she continuously pestered, she will snap out of it briefly and tell whomever to buzz-off. The bartender will intervene afterwards.
@@ -240,24 +240,57 @@ Peter King will be quietly eating by himself.
 
 Ernesto is wandering around the room telling ghost stories and generally being charming.
 
+Mr. Fines is going through insurance paperwork as he knows the flooding will cause significant damage.
+
+Lillian is playing cards by herself in the gamesroom. Ronald is chatting with some businessmen by the bar.
+
 **** The lights go out
 
 As the night go on, and after all the investigators have picked up all or most of the clues given out: the poor overworked power mechanism will finally give out and plunge the room into almost complete darkness. Frightened gasps and cries will be let out, the band stops abruptly. A pause stretches out in the room as people wait to see if the power will kick back on. It does not. Some minor panic will sweep the room as people trip and knock into things. A few minutes later several hotel staff will enter the room carrying candle lamps. Mr. Fines will materialize onto the stage as he lights a lamp, he will try to calm the guests down and inform them that the staff will carefully take them back to their rooms, and to please be patient as they do so. Most of the panic will die down at this point. Staff carrying lamps will go from table to table to escort them back to their room. If the investigators are seated together, they'll be guided back soon after.
 
 **** The trip back
 
-Investigators will notice the first floor carpet is wet, water can be heard dripping in places unseen throughout the hotel. If an investigator looks outside they will see the streets completely flooded past the doors to shops and coming up to the windows. The hotel is raised off the ground a bit so the water has only reached the door.
+Investigators will notice the first floor carpet is wet, water can be heard dripping in places unseen throughout the hotel. If an investigator looks outside they will see the streets completely flooded past the doors to shops and coming up to the windows. The hotel is raised off the ground a bit so the water has only reached the door. The staff returning you back to your room is the same bellhop that showed you to your room and he has quite a grim expression on his face. If questioned about the situation he'll lie and tell you everything is alright. A *Psychology* roll can easily tell you he's lying. If pressed he'll reveal that the basement is flooded and the rain isn't letting up. He'll try to explain how grim the situation is getting, that the staff are considering fleeing home at night. He won't be much help if the investigators want to escape the hotel. It's one of the few tall buildings in this town and he'll sincerely advise you to stay here. By the time he sets out to find his home, it'll already be underwater.
 
 *** That night
 
-Players going to sleep will be disturbed in the middle of the night.
+After returning to their rooms, they're left with a few candles on their dresser. Investigators can attempt to sleep, but it won't be a very restful one. In addition, a couple of major events happen during the night.
+
+**** Lillian and Ronald
+
+As the lights went out, Lillian finds herself in complete darkness alone. She'll begin to call out. Ronald, a little inebriated from his time at the bar, has been expecting Lillian to be in his room (they're sharing a room), when he finds it empty after being escorted back, he'll start hollering out. Investigators easily hear this from their rooms, if they go outside Ronald will quickly enlist them to help find her. He has no idea where she is, and his current state doesn't help matters. After stumbling a few times, he'll sit down and beg for investigators to find her between blubbering on about how horrible a father he is. Lillian is stumbling around the gamesroom, eventually making her way out and wandering down the hall. She's in tears of fright at this point and her call is quite weak. Investigators might only have their candles to help them navigate. Lillian will try to find her way back to her room but get lost and roam the first floor blindly. Keeper should mark and track where Lillian is as she wanders around. After reaching the first floor, investigators would be wise to keep quiet as they might hear a faint '...dad?...' in the air. As water is dripping down, the Keeper might impose a group luck roll with a failure resulting in a candle spluttering out. If Lillian is found she is crying and soaked, she's grateful for the assistance and wants to get back to her room. After being guided back her father waits slumped down outside their room, they'll embrace in tears and be very thankful. Ronald will give investigators his business card and ask them to call upon him anytime. He won't remember any of this the next morning. If Lillian is not found after an hour or investigators refuse to help, Ronald will attempt to find her on his own which results in him tripping and falling on the stairs. He's unconscious when the waters consume his body. Lillian at least fairs better as she eventually makes her way back to her room, only to find no one there.
+It should be noted here that there is no existential threat here beyond the darkness and flooding, unless the Keeper wishes otherwise. Attempts should be made to keep the tension high and filled with uncertainty.
+
+**** Flooded
+
+At around 1am the entire first floor is foot-deep in water.
+
+**** The Staff Flees
+
+Around 2am, the majority of the staff enacts a plan to flee to their homes. They set off, waist deep in water with suitcases filled a few belongings, some pilfered, and attempt to reach their home. Those that leave are never seen again.
+
+**** Poor Peter King
+
+Even if investigators never aided Peter King he managed to find some sleeping aid (a conversation struck up during dinner was rewarded when his conversation companion offered some). He takes too much and at around 4am is unable to wake up as the waters rise above him.
+
+*** End of Act 1
+
+If investigators were successful in saving Lillian and reuniting her with her father, they are rewarded with 2 SAN points each.
 
 ** ACT 2 WATERS RISING
 
 *** Rising Waters
 
+The water hasn't stopped, what was initially thought to be an unfortunate flash flood has now turned into something biblical. Refer to Map 2 for all the areas underwater, which includes most of the first floor. Investigators trying to move through flooded areas can do so without making rolls if traveling short distances. Attempting to swim away from deep ones or trying to swim to the basement from the first floor will also require a roll. In addition, refer to optional hypothermia rules if needed.
+**** TODO Add maps
+
+*** Awakened into Chaos
+
+Investigators who managed to find sleep will be awakened around 7am with yelling and screaming coming from outside their room. Power has still not been restored but the day is rather bright despite and although it doesn't seem to be raining as hard as it was, there is still a steady downfall. Anyone looking outside will see a city looking more like Venice than the quaint town you remembered. Investigators making a *Spot Hidden* roll will see some fish-sized dark shapes moving in the water (SAN 0/1). It smells deeply of the ocean, but tinged with a stagnant water aroma.
+
 *** A Cry for Help
-In the middle of the night, a cry is heard through the pipe works that connect the heating to each room.
+
+In the middle of the night, a cry is heard through the pipe works that connects the heating to each room.
 
 *** Deep Ones Appear
 
