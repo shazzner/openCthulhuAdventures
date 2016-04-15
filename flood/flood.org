@@ -10,6 +10,7 @@
 *** Inspiration
     
     Taken Before the Flood was invisioned when reading a blog post on tips for Keepers. In a section on things NOT to do as a Keeper, one of them mentioned not to get investigators anywhere near water. The poster explained this due to the fact that investigators never put any skill points into Swimming and thus always fail critical rolls when in the water. When I read this, naturally, I invisioned a water scenario. I think that bit of advise could apply towards a multitude of skills (driving perhaps), something about investigators constantly being dragged underwater inspired me.
+    To help illustrate this point, here is a quote from an inspiration games master: "I want you to play to lose. I want you to put yourself in situations where bad shit happens. I want you to put yourself in situations where you don't get what you want and let the story come out of that and see what happens."
     
 *** Length
     
@@ -41,7 +42,7 @@
     
     The book used for the summoning ritual is filled with terrifying Mythos power. An ancient book, it is mostly sheets of papyrus sandwiched between hand carved wooden slats. It can be considered to a sibling book to /The Book of Dagon/ so coveted by the Esoteric Order of Dagon, in Innsmouth. It was written by an entirely separate adventurer encountering the Kanak tribe, that worshiped the deep ones. Written in Latin, with curious mentions to an emperor that doesn't exists in known history books, it describes how to summon Dagon through a series of rituals within rituals. The author had the intelligence to see deep mechanics at play, the underlying forces behind the madness, to create a hyper condensed Summoning of Dagon. To intelligent investigators, they too can understand these inner workings, and with that be able to reverse the machinations to un-summon Dagon.
     The book is quite fragile and clumsy or unlucky investigators carrying the book can render the book wet and ruined if not careful, though it could be easily argued that this book being destroyed is a win for humanity.
-    Investigators wishing to read the book require a successful *Latin* roll and a Sanity check: 1D4/2D6. Investigators failing this check will sincerely believe this book can be used help humanity, by creating a portal to water and life anywhere on the earth, as Ms. Davos believed. Investigators wanting to comprehend its full contents will need an entire week to study it. It adds 8 points to an investigators *Cthulhu Mythos*, costs 1D12 Sanity, and contains the Summon Dagon spell.
+    Investigators wishing to read the book require a successful *Latin* or difficult *Library Use* roll and a Sanity check: 1D4/2D6. Investigators failing this check will sincerely believe this book can be used help humanity, by creating a portal to water and life anywhere on the earth, as Ms. Davos believed. Investigators wanting to comprehend its full contents will need an entire week to study it. It adds 8 points to an investigators *Cthulhu Mythos*, costs 1D12 Sanity, and contains the Summon Dagon spell.
     
 *** Flow of time
     
@@ -68,6 +69,11 @@
      Hotel owner and historian. A small man wearing glasses and sporting a graying beard. Though the owner, Ernesto leaves managing to his hired administer Mr. Fines. Instead Ernesto haunts the hotel checking to see everything is in order and properly dusted and will regale passerbys with random tidbits of history and trivia. Usually quiet, but when asked about a certain fixture of the hotel or espcially a ghost-sighting, will rattle off for hours without break with every minutia of detail about it. Though certainly charming once he gets worked up, eventually everyone fatigues at his sermons and will eventually politely excuse themselves once a rare break in his speech happens. Ernesto never takes offense to this, will smile, bid them forewell, and continue on his way.
      
      Ernesto rarely finds himself distraught or panicked, as would happen when the upcoming events would unfold; alas, when this happens he takes to drink badly. Hobbies of Ernesto's include fine wines and the supernatural, in fact, he is quite in tune with the mythos having encounters it early in his life but never fully understanding, or believing, it himself. He alone intuits that Ms. Davos is behind the events that are to unfold.
+
+***** Mythos Awareness
+
+      Ernesto is aware of anyone touched by or has knowledge of Cthulhu Mythos. Any investigator who has some points in Cthulhu Mythos speaks to Ernesto, he might make a comment about it. If pressed on it, investigators should make a *Cthulhu Mythos* roll. If successful the investigators senses it back. He won't speak anymore on the subject.
+     
      
 **** Henry Fines
      
@@ -189,8 +195,7 @@
     
 *** Meeting Ernesto
     
-    Ernesto wanders the halls seemingly lost, though will ask the same to any investigator not on a direct course. Those engauging Ernesto in conversation will be treated an archives worth of facts and ancedotes about the hotel and previous patrons. See the NPC section for more information on Ernesto. Investigators may coax some interesting information from Ernesto concerning guests at the hotel, as Ernesto knows a little bit of information about everyone staying or working at the hotel (perhaps he even knows a little bit about investigators even).
-**** TODO what did I mean by 'perhaps he even knows a little bit about investigators even' ?
+    Ernesto wanders the halls seemingly lost, though will ask the same to any investigator not on a direct course. Those engauging Ernesto in conversation will be treated an archives worth of facts and ancedotes about the hotel and previous patrons. See the NPC section for more information on Ernesto. Investigators may coax some interesting information from Ernesto concerning guests at the hotel, as Ernesto knows a little bit of information about everyone staying or working at the hotel (perhaps he even knows a little bit about investigators even, see his character profile about Mythos awareness).
      
 *** The Ball Announced
     
@@ -332,18 +337,39 @@
 *** Tracking down Ernesto
     
     Ernesto is standing out on one of the terraces, observing the apocalypse as it unfolds. Finding Ernesto requires searching around, while deep ones are on the look out. If passing through a hallway with a window outside, a *Luck* roll might be granted to catch someone standing out on a terrace. Joining Ernesto, investigators will see the true destruction the summoning has wrought the city. The scene is not unlike the /Wanderer above the Sea of Fog/, only rooftops are visible now and a massive perimeter of fog around the city seemingly transports the view to another dimension. The rain is gone but for a light misting. Now dusk, the colors have warped and shaded this land into an alien plane. That's not what draws the attention at first glance however: situated not far from this terrace likes a massive column of falling water. Imagine Niagara Falls falling from the sky. Seeing this carries a great penalty to an investigator's sanity (1D4/1D8). Investigators failing the test will feel an ominous presence growing within the column of water.
-    Ernesto will tell them he knows who did this, as he felt the shadow of mythos behind her eyes. He will tell investigators exactly which room she resides in. If asked for any advice on how to end this, he will point to the column and say, "If she cannot help you, you must confront that." He'll also point out the general direction of a military fort on a hill nearby, the cannons sitting on the walls can be barely made out if a *Spot Hidden* roll is made.
-    
+    Ernesto will tell them he knows who did this, as he felt the shadow of mythos behind her eyes. He is of course talking about Ms. Davos and will tell investigators exactly which room she resides in. If asked for any advice on how to end this, he will point to the column and say, "If she cannot help you, you must confront that." He'll also point out the general direction of a military fort on a hill nearby, the cannons sitting on the walls can be barely made out if a *Spot Hidden* roll is made.
+    Ernesto can be a source of Cthulhu Mythos, as he has encountered it in his long storied past. If asked about it, he can related a story about how he once lived in a convent in Mexico that later turned out to be a temple of cultists. He was attacked by a living shadow but managed to escape and eventually found himself in America. Listening to this will increase investigator's Cthulhu Mythos skill by 1D3.
+
+*** Wandering About
+
+    Investigators who have failed to divine the clues leading to Ms. Davos, might become stuck at this point. Between the morning and now, things have gotten much worse in the hotel. All the walls seem to be dripping with brine, blood smears the hallways floors where it appears someone was dragged from their room into the murky waters filling up the second floor stairwell. Crying can be heard somewhere in the distance. Charles, Ronald, and Lillian have all disappeared. Worst of all, it is getting dark and electrical lighting has long ceased. Deeps ones will be much more active at night and will attempt to break down doors if they sense there is prey on the other side. Once the realization of total darkness has set in, a plan might be formed to find some flashlights. If investigators currently posses flashlights and lanterns, it would be a reasonable assumption they would have gotten wet and become non-functioning. There are two utility closets on the three floors of the hotel, the first one is completely submerged on the first floor, and the second is on the third floor. Miraculously it's been mostly untouched, inside contains two flashlights, two packs of 12 batteries, some linen, and a few random cleaning products, and a large bottle of rat poison. The flashlights require two batteries each. The batteries are the cheap paper kind and will quickly cease to function if they get wet. What the investigators do with the rat poison is entirely up to them. It would probably take a lot of rat poison to kill a deep one.
+    As investigators are raiding the utility closet, Ms. Davos will briefly open the door of her room to paint an Elder Sign on her door. Investigators standing watch can easily catch sight of this as it's only a few doors down. A *Listen* roll will also alert them as she opens and closes the door.
+
 *** Ms. Davos
-    
+
+    This is the crucial point in the investigation, as Ms. Davos posses the only means to stop the summoning of Dagon and possibly bring things back from the brink. She's been waiting here, since the beginning, except for a stroll out to the rainy-day ball. She's currently tired, high-strung, and mentally deteriorating.
+    As explained in the *Wandering About* section: if the sun has gone down, an Elder Sign has been crudely painted on the door. It was painted using a mixture of hotel courtesy ink and her own blood.
+    If investigators knock on her door, a reflexive response of, "Who is it?" will be given. Investigators are on their own from here, as Ms. Davos will not open door unless a good reason is given. She knows an Elder Sign will protect her from deep ones (though it's not as effective as she believes), so she's only putting herself in danger by opening the door. If asked, about the flood and deep ones, she will flatly state that there is nothing that can be done. *Persuasion* can be attempted with a valid statement that they are probably the only ones that can help. She will let investigators in regardless of rolls if they let on their familiarity of the mythos. She will start to get annoyed however if investigators try to deceive her about their intentions.
+    Inside the room is a wreck: the bed has been overturned, sheets and pillows are strewn about, the flood is stained with trails of blood, and a large arcane symbol has been carefully scratched onto the floor. Ms. Davos will spill it all at the point, her relationship with the Yanguana Society, the book, the summoning of Dagon, and her conviction that it can be used to help the world, how she checked into the nicest hotel she could find and went forward with the ritual. If asked about the loss of life, she'll make a quick offhand comment about the world not needing anymore people before stating that she knows, and is sorry. The conversation with Ms. Davos can go many ways, she is willing to explain how the spell can be, and should have been, used in completely arid places in the world to bring a bounty of water and life. If pushed on the guilt about the loss of life, a successful *Persuasion* opposed roll can be made against Ms. Davos. On a tie or success, she will break down and start sobbing.
+    She genuinely believes there is nothing that can be done, but if asked about the ritual she'll show investigators the book. Investigators can all make *Idea*, *Intelligence*, or *Cthulhu Mythos* rolls. Making a Cthulhu Mythos roll will lead them to believing it can be reverse using the same ritual, otherwise investigators believe that studying the book might uncover some clues. With that, a case can be made to lend the book out for further study and Ms. Davos will reluctantly agree. In her mind, the damage (and supposed benefit) has already been done and while she doesn't want to be violently killed, she has since resolved she won't live past another day or two, so what does it matter to her? She will let the book go and will only wish to be left alone again. Her last request is to close the door on the way out. She won't speak or aid you any further.
+    If the door is forced open, she is threatened or attacked, she will defend herself against investigators with her knowledge of deadly spells. She is protective of her book, and won't stop attacking if investigators take it against her will. Her attacks will stop if investigators get ahold of the book and threaten to destroy it however.
+
+**** TODO add Ms. Davos' stats
+
+*** The Book
+
+    See Keeper Information about the /Canticum de Abyssi/, but needless to say there *is* a way to stop the ritual but it will take the rest of the night to study (1D6+1 hours). One investigator with skill in *Library Use* or *Latin* can study it to gain the information. Success will impart the information of stopping the ritual, by means of slight changes to the pictograph and changes to the utterances of the words. Attempting this corrected ritual will take more time (1D3 hours). Investigators failing their sanity rolls and believing in the benefit of the ritual can still help their comrades in stopping the ritual. Assuming a long shot happens and they survive, then perhaps this investigator might just repeat this experiment at a future time.
+
 *** A Cry for Help
     
-    In the middle of the night, a cry is heard through the pipe works that connects the heating to each room.
+    In the middle of the night, perhaps while one investigator is studying the book: a faint cry is heard through the pipe works that connects the heating to each room.
     
 ** ACT 3 THE RITUAL OF DAGON
    
 *** Rising Waters
-    
+
+*** Stopping the Ritual
+
 *** The Final Battle
     
 ** AFTERMATH
@@ -362,3 +388,4 @@
 ** Translations
    
    Help translate this work into multiple languages! If you would like to please email me and I can help you add your translation to the main repository.
+
