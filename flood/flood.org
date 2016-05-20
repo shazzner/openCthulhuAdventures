@@ -16,16 +16,9 @@ To help illustrate this point, here is a quote from an inspiration games master:
 
 Hopefully one session if investigators blaze through it, though more likely two to three. The span of the adventure will take place in one location over the span of three in-game days.
 
-** SETTING
-
 *** Era
 
 This scenario was invisioned for the Call of Cthulhu classic 1920s era, though with a few changes here and there would adapt to a modern or gaslight scenario. Common problems like smartphones can be cleverly avoided due to the sheer amount of electronics-destroying rain and futuristic technologies such as radios and gramaphones can be easily substituted by live music. Tips for adapting this scenario to other eras are included in the adventure text.
-
-*** Mood
-
-Players or Keepers wishing to enliven the mood are suggested to loop a rain soundscape, as the rain and thundar will not stop until the adventure is completed.
-**** TODO probably remove this or rewrite it
 
 ** KEEPER INFORMATION
 
@@ -67,45 +60,32 @@ Wading in the water for an extended time can start to cause hypothermia on the i
 
 *** Staff
 
-**** Ernesto Manacavas
-
-Hotel owner and historian. A small man wearing glasses and sporting a graying beard. Though the owner, Ernesto leaves managing to his hired administer Mr. Fines. Instead Ernesto haunts the hotel checking to see everything is in order and properly dusted and will regale passerbys with random tidbits of history and trivia. Usually quiet, but when asked about a certain fixture of the hotel or espcially a ghost-sighting, will rattle off for hours without break with every minutia of detail about it. Though certainly charming once he gets worked up, eventually everyone fatigues at his sermons and will eventually politely excuse themselves once a rare break in his speech happens. Ernesto never takes offense to this, will smile, bid them forewell, and continue on his way.
+*Ernesto Manacavas:* Hotel owner and historian. A small man wearing glasses and sporting a graying beard. Though the owner, Ernesto leaves managing to his hired administer Mr. Fines. Instead Ernesto haunts the hotel checking to see everything is in order and properly dusted and will regale passerbys with random tidbits of history and trivia. Usually quiet, but when asked about a certain fixture of the hotel or espcially a ghost-sighting, will rattle off for hours without break with every minutia of detail about it. Though certainly charming once he gets worked up, eventually everyone fatigues at his sermons and will eventually politely excuse themselves once a rare break in his speech happens. Ernesto never takes offense to this, will smile, bid them forewell, and continue on his way.
 
 Ernesto rarely finds himself distraught or panicked, as would happen when the upcoming events would unfold; alas, when this happens he takes to drink badly. Hobbies of Ernesto's include fine wines and the supernatural, in fact, he is quite in tune with the mythos having encounters it early in his life but never fully understanding, or believing, it himself. He alone intuits that Ms. Davos is behind the events that are to unfold.
 
-***** Mythos Awareness
-
 Ernesto is aware of anyone touched by or has knowledge of Cthulhu Mythos. Any investigator who has some points in Cthulhu Mythos speaks to Ernesto, he might make a comment about it. If pressed on it, investigators should make a *Cthulhu Mythos* roll. If successful the investigators senses it back. He won't speak anymore on the subject.
 
-
-**** Henry Fines
-
-Hotel administer and a bit of a prickly pear. His duties involve berating staff, tending to the seemingly endless paperwork and phone calls, and keeping Ernesto from boring his important guests.
+*Henry Fines:* Hotel administer and a bit of a prickly pear. His duties involve berating staff, tending to the seemingly endless paperwork and phone calls, and keeping Ernesto from boring his important guests.
 When times become dire at the hotel, he runs on raw instinct. This can make for a bad encounter if confronted.
 
-**** Charles the Bellhop
+*Charles the Bellhop:* Your bellhop upon arrival and when flood comes, can be a valuable ally. He plans on joining the Navy once he's earned enough for travel, but he carries with him a sense of duty to maintain the peace.
 
-Your bellhop upon arrival and when flood comes, can be a valuable ally. He plans on joining the Navy once he's earned enough for travel, but he carries with him a sense of duty to maintain the peace.
-
-***** TODO replace 'the bellhop' with Charles
+**** TODO replace 'the bellhop' with Charles
 
 *** Travelers & Residents of the hotel
 
-**** Julia Davos
+*Julia Davos:* The summoner of Dagon. Pale with shoulder-length red hair, she looks quite tired when the investigators meet her though she would be quite beautiful otherwise. A former member of the Yanaguana Society, she has been driven insane by years of Mythos investigations and of reading /Canticum de Abyssi/. She truly believes she has found a way to help humanity out by bringing water and life to places where there is none and thus completes the summoning of Dagon. She hates the Yanaguana Society, believing them to be fools who would squander all the knowledge and wisdom the mythos can reveal. She is sharp witted and knows full well the loss of life and destruction the summoning will bring, yet she hopes in the aftermath the Yanaguana Society will be wiped out and the region will renewed with a bounty of water and life. She is unfortunately only correct in the former of these assumptions.
 
-The summoner of Dagon. Pale with shoulder-length red hair, she looks quite tired when the investigators meet her though she would be quite beautiful otherwise. A former member of the Yanaguana Society, she has been driven insane by years of Mythos investigations and of reading /Canticum de Abyssi/. She truly believes she has found a way to help humanity out by bringing water and life to places where there is none and thus completes the summoning of Dagon. She hates the Yanaguana Society, believing them to be fools who would squander all the knowledge and wisdom the mythos can reveal. She is sharp witted and knows full well the loss of life and destruction the summoning will bring, yet she hopes in the aftermath the Yanaguana Society will be wiped out and the region will renewed with a bounty of water and life. She is unfortunately only correct in the former of these assumptions.
+*Alfred Hickenthorpe:* A charlatan of an inventor. Claims to have invented a device that uses the principles of radio wave transmission to harness unlimited energy. At first he attempted to understand the basic principles of radio waves from a few books on Marconi: he envisioned capturing transmitted energy from many sources in nature like the sun, or plants, or even 'the spiritual realm' (Tesla tried and failed to, up to the point of his death, to create a reliable source of wireless energy transmission, though Tesla's ideas were far more grounded in science and experimentation). The ideas went further in somehow 'transmuting' this infinite source of power to control the weather or creating a weapon to strike down anyone from afar. He was no engineer though and attempts to build such a device failed miserably. Nonetheless, he read enough and was a sharp enough talker to convince fools to invest in his ideas. Always trying to scrounge up investor money, he stays at the Menger trying to hawk his ideas. He is presented as a red herring if investigators believe his talk of controlling the weather. He carries in his luggage a 'prototype' that is little more than random electronic parts soldered and taped together.
 
-**** Alfred Hickenthorpe
+*Lillian and Ronald Pierce:* Oil was and is a huge commodity for Texas and the nation, and Ronald Pierce owns a fair share of it. He recently finished up an oil deal that will increase his profits handsomely though he feels he could have held out and gotten a better deal. Though to most he is considered greedy, egotistical, and selfish the only thing he truly cares about beyond money is his daughter, Lillian. Lillian is 15 and is traveling with her father on his instance to learn business and negotiation, she is easily bored but enjoys card games and sleight of hand tricks. Quite unlike her father and despite being forever spoiled: she is friendly, charming, sharp. Only in a game of poker are all bets off.
 
-A charlatan of an inventor. Claims to have invented a device that uses the principles of radio wave transmission to harness unlimited energy. At first he attempted to understand the basic principles of radio waves from a few books on Marconi: he envisioned capturing transmitted energy from many sources in nature like the sun, or plants, or even 'the spiritual realm' (Tesla tried and failed to, up to the point of his death, to create a reliable source of wireless energy transmission, though Tesla's ideas were far more grounded in science and experimentation). The ideas went further in somehow 'transmuting' this infinite source of power to control the weather or creating a weapon to strike down anyone from afar. He was no engineer though and attempts to build such a device failed miserably. Nonetheless, he read enough and was a sharp enough talker to convince fools to invest in his ideas. Always trying to scrounge up investor money, he stays at the Menger trying to hawk his ideas. He is presented as a red herring if investigators believe his talk of controlling the weather. He carries in his luggage a 'prototype' that is little more than random electronic parts soldered and taped together.
+*Peter King:* An insurance salesman, he's been recently informed of his failing health. He's decided to rest at the hotel for a week to try and feel better. A light sleeper, he asks the hotel clerk for sleeping aids to sleep through the storm. If acquired he will fall asleep and drown as the water fills his first floor room.
 
-**** Lillian and Ronald Pierce
+*Miriam Pell:* Woman trapped in the elevator shaft late on the second night.
 
-Oil was and is a huge commodity for Texas and the nation, and Ronald Pierce owns a fair share of it. He recently finished up an oil deal that will increase his profits handsomely though he feels he could have held out and gotten a better deal. Though to most he is considered greedy, egotistical, and selfish the only thing he truly cares about beyond money is his daughter, Lillian. Lillian is 15 and is traveling with her father on his instance to learn business and negotiation, she is easily bored but enjoys card games and sleight of hand tricks. Quite unlike her father and despite being forever spoiled: she is friendly, charming, sharp. Only in a game of poker are all bets off.
-
-**** Peter King
-
-An insurance salesman, he's been recently informed of his failing health. He's decided to rest at the hotel for a week to try and feel better. A light sleeper, he asks the hotel clerk for sleeping aids to sleep through the storm. If acquired he will fall asleep and drown as the water fills his first floor room.
+**** TODO replace with named in the 2nd night section
 
 ** PLAYER CHARACTERS
 
@@ -174,23 +154,13 @@ The Rainyday Ball begins at 8 o'clock and is the next major event to proceed the
 
 Investigators exploring the hotel without a map might get a little off track, any bellhop or waitstaff will direct investigators and mention a map is available at the front counter.
 
-**** A Bite to eat
+*A Bite to Eat:* Food is located at the dining hall serving common breakfast in the morning, and soup and sandwiches lunch. All for a modest sum. Inquiring about dinner, waitstaff will inform investigators that it's served in the ballroom, and apparently they have something special going on tonight.
 
-Food is located at the dining hall serving common breakfast in the morning, and soup and sandwiches lunch. All for a modest sum. Inquiring about dinner, waitstaff will inform investigators that it's served in the ballroom, and apparently they have something special going on tonight.
+*A Drink:* The bar is open and serving drinks, though as this is prohibition you'll have to deal with an obtuse way of ask for alcohol. The bartender is rather short-spoken and will direct any questions about history or people to Ernesto.
 
-**** A drink
+*The library and gamesroom:* The library is a modest collection of books and magazines. Mostly common thrillers, penny-dreadfuls, and fashion mags, there is some books about local history that might be useful for reference to other adventures. Investigators can search the stacks with a *Library Use* roll, but even with a success will find no Mythos or Occult books unless the Keeper wishes. The games room contains a single billard table and a few card tables. Cards, boardgames, and billard balls and cues are stored in a tall cabinet in the corner.
 
-The bar is open and serving drinks. The bartender is rather short-spoken and will direct any questions about history or people to Ernesto.
-
-**** The library and gamesroom
-
-The library is a modest collection of books and magazines. Mostly common thrillers, penny-dreadfuls, and fashion mags, there is some books about local history that might be useful for reference to other adventures. Investigators can search the stacks with a *Library Use* roll, but even with a success will find no Mythos or Occult books unless the Keeper wishes.
-
-The games room contains a single billard table and a few card tables. Cards, boardgames, and billard balls and cues are stored in a tall cabinet in the corner.
-
-**** Pool and garden
-
-Both the pool and garden are of little interest for investigators. The pool is abandoned and overflowing. The garden once contained lively flowers and vegetables, now dying from the torrent of saltwater.
+*Pool and garden:* Both the pool and garden are of little interest for investigators. The pool is abandoned and overflowing. The garden once contained lively flowers and vegetables, now dying from the torrent of saltwater.
 
 *** An odd thing to wash away
 
@@ -239,18 +209,15 @@ Lights will randomly flicker or drop then come back. Anyone within earshot of an
 
 Any NPC of note in this scenario will attend, including Ms. Davos, finally awakening from her day-long rest. The ball will take place at the hotel's grand ball room. Dinner is served and a popular jazz band is playing. As investigators arrive they will be seated together at a table close to the band. Though lighting will storm outside and the lights will flicker momentarily throughout the event: the band will play on. Dinner consists of a choice of steak or fish with flan for dessert. Investigators are encouraged to get up and dance, the music is great and lively. Investigators brave enough to dance will have fun and recover 1 point of SAN.
 
-**** Listening in
-
-Various conversations can be eavesdropped on, though it might be difficult to tell who said what to whom. This will also depend on where the investigator is in the room though Keepers can pretend all the conversation is around them and make it audible from their table. All the investigators can each make a *Listen* roll. Read aloud one of the following snippets of conversation for a normal success, a hard or extreme success will reveal exactly who said it:
-
-"I've been watching it outside, the city is flooded..." - Random guest
-"Check out the red-head by the bar over there!" - Random guest (location anywhere)
-"Let me tell you about the future of communication, hell I can even contact the dead with the power of scientific method!" - Mr. Hickenthorpe (schmooing around the bar area)
-"I tell you, I saw a fish wash down the street!" - Random guest
-"That man is an idiot and a charlatan" - Random guest pointing at Hickenthorpe
-"They say the rain brings the dead closer to our world" - Ernesto spooking a random couple
-"Oil is never going to lose its value, it'll only go up" - Ronald Pierce by the bar
-Keepers are free to add their own.
+*Listening in:* Various conversations can be eavesdropped on, though it might be difficult to tell who said what to whom. This will also depend on where the investigator is in the room though Keepers can pretend all the conversation is around them and make it audible from their table. All the investigators can each make a *Listen* roll. Read aloud one of the following snippets of conversation for a normal success, a hard or extreme success will reveal exactly who said it:
+- "I've been watching it outside, the city is flooded..." - Random guest
+- "Check out the red-head by the bar over there!" - Random guest (location anywhere)
+- "Let me tell you about the future of communication, hell I can even contact the dead with the power of scientific method!" - Mr. Hickenthorpe (schmooing around the bar area)
+- "I tell you, I saw a fish wash down the street!" - Random guest
+- "That man is an idiot and a charlatan" - Random guest pointing at Hickenthorpe
+- "They say the rain brings the dead closer to our world" - Ernesto spooking a random couple
+- "Oil is never going to lose its value, it'll only go up" - Ronald Pierce by the bar
+- Keepers are free to add their own.
 
 Ms. Davos will be drinking by the bar, completely engrossed in her own thoughts and conscious. If questioned she will just mumble some quick dismissal. If she continuously pestered, she will snap out of it briefly and tell whomever to buzz-off. The bartender will intervene afterwards.
 
@@ -264,38 +231,26 @@ Mr. Fines is going through insurance paperwork as he knows the flooding will cau
 
 Lillian is playing cards by herself in the gamesroom. Ronald is chatting with some businessmen by the bar.
 
-**** The lights go out
+*The lights go out:* As the night go on, and after all the investigators have picked up all or most of the clues given out: the poor overworked power mechanism will finally give out and plunge the room into almost complete darkness. Frightened gasps and cries will be let out, the band stops abruptly. A pause stretches out in the room as people wait to see if the power will kick back on. It does not. Some minor panic will sweep the room as people trip and knock into things. A few minutes later several hotel staff will enter the room carrying candle lamps. Mr. Fines will materialize onto the stage as he lights a lamp, he will try to calm the guests down and inform them that the staff will carefully take them back to their rooms, and to please be patient as they do so. Most of the panic will die down at this point. Staff carrying lamps will go from table to table to escort them back to their room. If the investigators are seated together, they'll be guided back soon after.
 
-As the night go on, and after all the investigators have picked up all or most of the clues given out: the poor overworked power mechanism will finally give out and plunge the room into almost complete darkness. Frightened gasps and cries will be let out, the band stops abruptly. A pause stretches out in the room as people wait to see if the power will kick back on. It does not. Some minor panic will sweep the room as people trip and knock into things. A few minutes later several hotel staff will enter the room carrying candle lamps. Mr. Fines will materialize onto the stage as he lights a lamp, he will try to calm the guests down and inform them that the staff will carefully take them back to their rooms, and to please be patient as they do so. Most of the panic will die down at this point. Staff carrying lamps will go from table to table to escort them back to their room. If the investigators are seated together, they'll be guided back soon after.
-
-**** The trip back
-
-Investigators will notice the first floor carpet is wet, water can be heard dripping in places unseen throughout the hotel. If an investigator looks outside they will see the streets completely flooded past the doors to shops and coming up to the windows. The hotel is raised off the ground a bit so the water has only reached the door. The staff returning you back to your room is the same bellhop that showed you to your room and he has quite a grim expression on his face. If questioned about the situation he'll lie and tell you everything is alright. A *Psychology* roll can easily tell you he's lying. If pressed he'll reveal that the basement is flooded and the rain isn't letting up. He'll try to explain how grim the situation is getting, that the staff are considering fleeing home at night. He won't be much help if the investigators want to escape the hotel. It's one of the few tall buildings in this town and he'll sincerely advise you to stay here. By the time he sets out to find his home, it'll already be underwater.
+*The trip back:* Investigators will notice the first floor carpet is wet, water can be heard dripping in places unseen throughout the hotel. If an investigator looks outside they will see the streets completely flooded past the doors to shops and coming up to the windows. The hotel is raised off the ground a bit so the water has only reached the door. The staff returning you back to your room is the same bellhop that showed you to your room and he has quite a grim expression on his face. If questioned about the situation he'll lie and tell you everything is alright. A *Psychology* roll can easily tell you he's lying. If pressed he'll reveal that the basement is flooded and the rain isn't letting up. He'll try to explain how grim the situation is getting, that the staff are considering fleeing home at night. He won't be much help if the investigators want to escape the hotel. It's one of the few tall buildings in this town and he'll sincerely advise you to stay here. By the time he sets out to find his home, it'll already be underwater.
 
 *** That night
 
 After returning to their rooms, they're left with a few candles on their dresser. Investigators can attempt to sleep, but it won't be a very restful one. In addition, a couple of major events happen during the night.
 
-**** Lillian and Ronald
-
-As the lights went out, Lillian finds herself in complete darkness alone. She'll begin to call out. Ronald, a little inebriated from his time at the bar, has been expecting Lillian to be in his room (they're sharing a room), when he finds it empty after being escorted back, he'll start hollering out. Investigators easily hear this from their rooms, if they go outside Ronald will quickly enlist them to help find her. He has no idea where she is, and his current state doesn't help matters. After stumbling a few times, he'll sit down and beg for investigators to find her between blubbering on about how horrible a father he is. Lillian is stumbling around the gamesroom, eventually making her way out and wandering down the hall. She's in tears of fright at this point and her call is quite weak. Investigators might only have their candles to help them navigate. Lillian will try to find her way back to her room but get lost and roam the first floor blindly. Keeper should mark and track where Lillian is as she wanders around. After reaching the first floor, investigators would be wise to keep quiet as they might hear a faint '...dad?...' in the air. As water is dripping down, the Keeper might impose a group luck roll with a failure resulting in a candle spluttering out. If Lillian is found she is crying and soaked, she's grateful for the assistance and wants to get back to her room. After being guided back her father waits slumped down outside their room, they'll embrace in tears and be very thankful. Ronald will give investigators his business card and ask them to call upon him anytime. He won't remember any of this the next morning. If Lillian is not found after an hour or investigators refuse to help, Ronald will attempt to find her on his own which results in him tripping and falling on the stairs. He's unconscious when the waters consume his body. Lillian at least fairs better as she eventually makes her way back to her room, only to find no one there.
+*Lillian and Ronald:* As the lights went out, Lillian finds herself in complete darkness alone. She'll begin to call out. Ronald, a little inebriated from his time at the bar, has been expecting Lillian to be in his room (they're sharing a room), when he finds it empty after being escorted back, he'll start hollering out. Investigators easily hear this from their rooms, if they go outside Ronald will quickly enlist them to help find her. He has no idea where she is, and his current state doesn't help matters. After stumbling a few times, he'll sit down and beg for investigators to find her between blubbering on about how horrible a father he is. Lillian is stumbling around the gamesroom, eventually making her way out and wandering down the hall. She's in tears of fright at this point and her call is quite weak. Investigators might only have their candles to help them navigate. Lillian will try to find her way back to her room but get lost and roam the first floor blindly. Keeper should mark and track where Lillian is as she wanders around. After reaching the first floor, investigators would be wise to keep quiet as they might hear a faint '...dad?...' in the air. As water is dripping down, the Keeper might impose a group luck roll with a failure resulting in a candle spluttering out. If Lillian is found she is crying and soaked, she's grateful for the assistance and wants to get back to her room. After being guided back her father waits slumped down outside their room, they'll embrace in tears and be very thankful. Ronald will give investigators his business card and ask them to call upon him anytime. He won't remember any of this the next morning. If Lillian is not found after an hour or investigators refuse to help, Ronald will attempt to find her on his own which results in him tripping and falling on the stairs. He's unconscious when the waters consume his body. Lillian at least fairs better as she eventually makes her way back to her room, only to find no one there.
 It should be noted here that there is no existential threat here beyond the darkness and flooding, unless the Keeper wishes otherwise. Attempts should be made to keep the tension high and filled with uncertainty.
 
-**** Flooded
+*Flooded:* At around 1am the entire first floor is foot-deep in water.
 
-At around 1am the entire first floor is foot-deep in water.
+*The Staff Flees:* Around 2am, the majority of the staff enacts a plan to flee to their homes. They set off, waist deep in water with suitcases filled a few belongings, some pilfered, and attempt to reach their home. Those that leave are never seen again.
 
-**** The Staff Flees
+*Poor Peter King:* Even if investigators never aided Peter King he managed to find some sleeping aid (a conversation struck up during dinner was rewarded when his conversation companion offered some). He takes too much and at around 4am is unable to wake up as the waters rise above him.
 
-Around 2am, the majority of the staff enacts a plan to flee to their homes. They set off, waist deep in water with suitcases filled a few belongings, some pilfered, and attempt to reach their home. Those that leave are never seen again.
+*Bad Dreams:* Investigators who slept through the night, failing to aid Ronald and Lillian, will have terrible dreams that foretell the horrors awakening.
 
-**** Poor Peter King
-
-Even if investigators never aided Peter King he managed to find some sleeping aid (a conversation struck up during dinner was rewarded when his conversation companion offered some). He takes too much and at around 4am is unable to wake up as the waters rise above him.
-
-**** Bad Dreams
-
-Investigators who slept through the night, failing to aid Ronald and Lillian, will have terrible dreams that foretell the horrors awakening.
+**** TODO add in dream sequence
 
 *** End of Act 1
 
