@@ -16,16 +16,9 @@ To help illustrate this point, here is a quote from an inspiration games master:
 
 Hopefully one session if investigators blaze through it, though more likely two to three. The span of the adventure will take place in one location over the span of three in-game days.
 
-** SETTING
-
 *** Era
 
 This scenario was invisioned for the Call of Cthulhu classic 1920s era, though with a few changes here and there would adapt to a modern or gaslight scenario. Common problems like smartphones can be cleverly avoided due to the sheer amount of electronics-destroying rain and futuristic technologies such as radios and gramaphones can be easily substituted by live music. Tips for adapting this scenario to other eras are included in the adventure text.
-
-*** Mood
-
-Players or Keepers wishing to enliven the mood are suggested to loop a rain soundscape, as the rain and thundar will not stop until the adventure is completed.
-**** TODO probably remove this or rewrite it
 
 ** KEEPER INFORMATION
 
