@@ -60,45 +60,32 @@ Wading in the water for an extended time can start to cause hypothermia on the i
 
 *** Staff
 
-**** Ernesto Manacavas
-
-Hotel owner and historian. A small man wearing glasses and sporting a graying beard. Though the owner, Ernesto leaves managing to his hired administer Mr. Fines. Instead Ernesto haunts the hotel checking to see everything is in order and properly dusted and will regale passerbys with random tidbits of history and trivia. Usually quiet, but when asked about a certain fixture of the hotel or espcially a ghost-sighting, will rattle off for hours without break with every minutia of detail about it. Though certainly charming once he gets worked up, eventually everyone fatigues at his sermons and will eventually politely excuse themselves once a rare break in his speech happens. Ernesto never takes offense to this, will smile, bid them forewell, and continue on his way.
+*Ernesto Manacavas:* Hotel owner and historian. A small man wearing glasses and sporting a graying beard. Though the owner, Ernesto leaves managing to his hired administer Mr. Fines. Instead Ernesto haunts the hotel checking to see everything is in order and properly dusted and will regale passerbys with random tidbits of history and trivia. Usually quiet, but when asked about a certain fixture of the hotel or espcially a ghost-sighting, will rattle off for hours without break with every minutia of detail about it. Though certainly charming once he gets worked up, eventually everyone fatigues at his sermons and will eventually politely excuse themselves once a rare break in his speech happens. Ernesto never takes offense to this, will smile, bid them forewell, and continue on his way.
 
 Ernesto rarely finds himself distraught or panicked, as would happen when the upcoming events would unfold; alas, when this happens he takes to drink badly. Hobbies of Ernesto's include fine wines and the supernatural, in fact, he is quite in tune with the mythos having encounters it early in his life but never fully understanding, or believing, it himself. He alone intuits that Ms. Davos is behind the events that are to unfold.
 
-***** Mythos Awareness
-
 Ernesto is aware of anyone touched by or has knowledge of Cthulhu Mythos. Any investigator who has some points in Cthulhu Mythos speaks to Ernesto, he might make a comment about it. If pressed on it, investigators should make a *Cthulhu Mythos* roll. If successful the investigators senses it back. He won't speak anymore on the subject.
 
-
-**** Henry Fines
-
-Hotel administer and a bit of a prickly pear. His duties involve berating staff, tending to the seemingly endless paperwork and phone calls, and keeping Ernesto from boring his important guests.
+*Henry Fines:* Hotel administer and a bit of a prickly pear. His duties involve berating staff, tending to the seemingly endless paperwork and phone calls, and keeping Ernesto from boring his important guests.
 When times become dire at the hotel, he runs on raw instinct. This can make for a bad encounter if confronted.
 
-**** Charles the Bellhop
+*Charles the Bellhop:* Your bellhop upon arrival and when flood comes, can be a valuable ally. He plans on joining the Navy once he's earned enough for travel, but he carries with him a sense of duty to maintain the peace.
 
-Your bellhop upon arrival and when flood comes, can be a valuable ally. He plans on joining the Navy once he's earned enough for travel, but he carries with him a sense of duty to maintain the peace.
-
-***** TODO replace 'the bellhop' with Charles
+**** TODO replace 'the bellhop' with Charles
 
 *** Travelers & Residents of the hotel
 
-**** Julia Davos
+*Julia Davos:* The summoner of Dagon. Pale with shoulder-length red hair, she looks quite tired when the investigators meet her though she would be quite beautiful otherwise. A former member of the Yanaguana Society, she has been driven insane by years of Mythos investigations and of reading /Canticum de Abyssi/. She truly believes she has found a way to help humanity out by bringing water and life to places where there is none and thus completes the summoning of Dagon. She hates the Yanaguana Society, believing them to be fools who would squander all the knowledge and wisdom the mythos can reveal. She is sharp witted and knows full well the loss of life and destruction the summoning will bring, yet she hopes in the aftermath the Yanaguana Society will be wiped out and the region will renewed with a bounty of water and life. She is unfortunately only correct in the former of these assumptions.
 
-The summoner of Dagon. Pale with shoulder-length red hair, she looks quite tired when the investigators meet her though she would be quite beautiful otherwise. A former member of the Yanaguana Society, she has been driven insane by years of Mythos investigations and of reading /Canticum de Abyssi/. She truly believes she has found a way to help humanity out by bringing water and life to places where there is none and thus completes the summoning of Dagon. She hates the Yanaguana Society, believing them to be fools who would squander all the knowledge and wisdom the mythos can reveal. She is sharp witted and knows full well the loss of life and destruction the summoning will bring, yet she hopes in the aftermath the Yanaguana Society will be wiped out and the region will renewed with a bounty of water and life. She is unfortunately only correct in the former of these assumptions.
+*Alfred Hickenthorpe:* A charlatan of an inventor. Claims to have invented a device that uses the principles of radio wave transmission to harness unlimited energy. At first he attempted to understand the basic principles of radio waves from a few books on Marconi: he envisioned capturing transmitted energy from many sources in nature like the sun, or plants, or even 'the spiritual realm' (Tesla tried and failed to, up to the point of his death, to create a reliable source of wireless energy transmission, though Tesla's ideas were far more grounded in science and experimentation). The ideas went further in somehow 'transmuting' this infinite source of power to control the weather or creating a weapon to strike down anyone from afar. He was no engineer though and attempts to build such a device failed miserably. Nonetheless, he read enough and was a sharp enough talker to convince fools to invest in his ideas. Always trying to scrounge up investor money, he stays at the Menger trying to hawk his ideas. He is presented as a red herring if investigators believe his talk of controlling the weather. He carries in his luggage a 'prototype' that is little more than random electronic parts soldered and taped together.
 
-**** Alfred Hickenthorpe
+*Lillian and Ronald Pierce:* Oil was and is a huge commodity for Texas and the nation, and Ronald Pierce owns a fair share of it. He recently finished up an oil deal that will increase his profits handsomely though he feels he could have held out and gotten a better deal. Though to most he is considered greedy, egotistical, and selfish the only thing he truly cares about beyond money is his daughter, Lillian. Lillian is 15 and is traveling with her father on his instance to learn business and negotiation, she is easily bored but enjoys card games and sleight of hand tricks. Quite unlike her father and despite being forever spoiled: she is friendly, charming, sharp. Only in a game of poker are all bets off.
 
-A charlatan of an inventor. Claims to have invented a device that uses the principles of radio wave transmission to harness unlimited energy. At first he attempted to understand the basic principles of radio waves from a few books on Marconi: he envisioned capturing transmitted energy from many sources in nature like the sun, or plants, or even 'the spiritual realm' (Tesla tried and failed to, up to the point of his death, to create a reliable source of wireless energy transmission, though Tesla's ideas were far more grounded in science and experimentation). The ideas went further in somehow 'transmuting' this infinite source of power to control the weather or creating a weapon to strike down anyone from afar. He was no engineer though and attempts to build such a device failed miserably. Nonetheless, he read enough and was a sharp enough talker to convince fools to invest in his ideas. Always trying to scrounge up investor money, he stays at the Menger trying to hawk his ideas. He is presented as a red herring if investigators believe his talk of controlling the weather. He carries in his luggage a 'prototype' that is little more than random electronic parts soldered and taped together.
+*Peter King:* An insurance salesman, he's been recently informed of his failing health. He's decided to rest at the hotel for a week to try and feel better. A light sleeper, he asks the hotel clerk for sleeping aids to sleep through the storm. If acquired he will fall asleep and drown as the water fills his first floor room.
 
-**** Lillian and Ronald Pierce
+*Miriam Pell:* Woman trapped in the elevator shaft late on the second night.
 
-Oil was and is a huge commodity for Texas and the nation, and Ronald Pierce owns a fair share of it. He recently finished up an oil deal that will increase his profits handsomely though he feels he could have held out and gotten a better deal. Though to most he is considered greedy, egotistical, and selfish the only thing he truly cares about beyond money is his daughter, Lillian. Lillian is 15 and is traveling with her father on his instance to learn business and negotiation, she is easily bored but enjoys card games and sleight of hand tricks. Quite unlike her father and despite being forever spoiled: she is friendly, charming, sharp. Only in a game of poker are all bets off.
-
-**** Peter King
-
-An insurance salesman, he's been recently informed of his failing health. He's decided to rest at the hotel for a week to try and feel better. A light sleeper, he asks the hotel clerk for sleeping aids to sleep through the storm. If acquired he will fall asleep and drown as the water fills his first floor room.
+**** TODO replace with named in the 2nd night section
 
 ** PLAYER CHARACTERS
 
