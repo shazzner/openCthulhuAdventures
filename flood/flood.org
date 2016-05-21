@@ -88,7 +88,7 @@ There is a certain amount of adventurous disbelief on account of the player's mo
 - *Traveler:* A random stranger on a train looking to take a relaxing stay, potentially after a sanity-draining adventure.
 - *Yanaguana Society Member:* An investigator tasks with finding the book by the Yanaguana Society, in addition to who, and more importantly, why?
 - *Bellhop:* Works at the hotel, perhaps is a new to the town and newly hired. Staff is offered, for a fee, to stay in a small staff room. Knows the general layout and has a few useful keys too. Begins with the map handout, emulating the map in their heads.
-- *Tortured Writer:* Has lived at the hotel for the past two months, attempting to write their next novel after their previous novel was a huge hit
+- *Tortured Writer:* Has lived at the hotel for the past two months, attempting to write their next great novel after their previous novel became a runaway sensation. Writers block and pressure from the publisher has left this writer in a deep depression.
 
 Sample character sheets are provided in the Appendix.
 
@@ -96,7 +96,7 @@ Sample character sheets are provided in the Appendix.
 
 *** Bringing the Party Together
 
-Travelers on the train are seated next to each and, though potentially strangers, it's commonly known that you can save a good deal of money if two people stay in one room and decide to strike up a conversation with one another. Long term guests of the hotel frequently rely on trusted staff for special requests: alcohol, cigarettes, maybe even a narcotic or two.
+Travelers on the train are seated next to each and, though potentially strangers, it's commonly known that you can save a good deal of money if two people stay in one room and decide to strike up a conversation with one another. The hotel is visible from the train station and any station staff will happily direct them. Long term guests of the hotel frequently rely on trusted staff (Player characters, employed by the hotel) for special requests: alcohol, cigarettes, maybe even a narcotic or two.
 
 ** ACT 1 THE CALM BEFORE THE STORM
 
@@ -106,14 +106,14 @@ Investigators walking to the hotel without an umbrella notice that the rainwater
 
 *** Arrival and Checking in
 
-Investigators arriving in will be greeted with a lavish lobby with victorian sensabilities but with modern decor. Music plays through an electric gramaphone. Since various people are checking in, quite a few people are milling out the lobby chatting and laughing. This would be a good time to introduce some of the NPCs.
+Investigators arriving in will be greeted with a lavish lobby with Victorian sensibilities but with a tastefully modern decor. Music plays through an electric gramaphone. Since various people are checking in, quite a few people are milling out the lobby chatting and laughing. This would be a good time to introduce some of the NPCs.
 
-If not previously discussed, now would be a good time to figure out room arrangements. Two can share a room and will be placed in the east wing on the third floor. Single rooms will be placed on the second floor on the west wing above the lobby. Suites are also available for a higher cost and those with a *Credit Rating* of 60% or above. Players can make arragements over payments and IOUs; however, keep in mind that they'll never get a chance to square up their bills.
+Travelers have already a room booked for them, but if not previously discussed: now would be a good time to figure out room arrangements. Two can share a room and will be placed in the east wing on the third floor. Single rooms will be placed on the second floor on the west wing above the lobby. Suites are also available for a higher cost and those with a *Credit Rating* of 60% or above. Players can make arragements over payments and IOUs; however, keep in mind that they'll never get a chance to square up their bills.
 
 Players approaching the counter will be greeted by Mr. Fines. For investigators with 40% or above *Credit Rating* or *APP* above 12, check-in goes by smoothly. Investigators with lower credit ratings may need to roll a *Credit Rating* check, failing that a *Debate* roll to convince Mr. Fines they're on the level. Investigators turned away may still stay in the hotel provided they're willing to bunk with someone who does pass. If all investigators fail, Keeper may openly ask players how they expected to get a room at a nice hotel when they're all dressed as hobos.
 
 Players asking for a map of the local area or a map of the hotel will be handed the hotel-map from the handouts. Fines might highlight some areas of interest nearby to checkout, "once the rain clears up". Anything he highlights will be closed today and are of no use to the player in this adventure. Each player staying in a room will receive a key and Fines will call for a bellhop to show investigators up to their rooms.
-**** TODO add in a check to read the register
+**** TODO add in a check to read the register, modify room arrangements
 
 *** 1920s: Changing Times
 
