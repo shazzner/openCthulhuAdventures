@@ -118,8 +118,10 @@ Players asking for a map of the local area or a map of the hotel will be handed 
 
 *** Heading up
 
-Players are shown up to their room by the bellhop. This person is obviously fishing for tips and will enthusiastically inform the player about breakfast/lunch/dinner in the dining hall, location of the pool/bar/garden, and will mention that whenever it rains all day a rainyday ball will usually be held late at night.
+Players are shown up to their room by a bellhop named Charles, who will become more familiar as the events unfold. Charles is obviously fishing for tips and will enthusiastically inform the player about breakfast/lunch/dinner in the dining hall, location of the pool/bar/garden, and will mention that whenever it rains all day a rainyday ball will usually be held late at night.
 Your rooms are a comfortable victorian affair, though players with a single room will note its small size. Suites are larger with a few more furishings. West windows look out to the square.
+
+Those saddled with the /Economy Suite/ will give Charles a bit of a chuckle, he'll explain how it's really one of the rooms set aside for staff. For a small amount, he'll arrange to have you stay in a suite that's normally reserved for big name politicians or movie stars. "You really won't want to stay in the rooms", he'll say in complete sincerity. 
 
 *** Till the Ball
 
