@@ -82,34 +82,21 @@ When times become dire at the hotel, he runs on raw instinct. This can make for 
 
 ** PLAYER CHARACTERS
 
-*** Notes on players
+*** Player Hooks
 
-There is a certain amount of adventurous disbelief on account of the players motivations to keep them in a hotel that is slowly sinking (or are the waters rising?). In a regular emergency flooding scenario, one would surmise an able-minded chap would simple escape to their home or emergency shelter as soon as the report of flash flooding comes in. Since all action takes place in the hotel and time is somewhat on a schedule, Keepers and Players should agree on valid reasons for their player-characters staying through till the end.
-Any player whose backstory is employment with the hotel (bellhop) will start with a few advantages: keys or knowledge of the keys to certain locations off limits to non-personal and begin with the map handout, emulating the map in their heads.
+There is a certain amount of adventurous disbelief on account of the player's motivations to keep them in a hotel that seems to be slowly sinking. In a town of this size, there doesn't exist any sort of emergency procedures in case of a flood. Provided below are a couple of player hooks to for their character in this scenario:
+- *Traveler:* A random stranger on a train looking to take a relaxing stay, potentially after a sanity-draining adventure.
+- *Yanaguana Society Member:* An investigator tasks with finding the book by the Yanaguana Society, in addition to who, and more importantly, why?
+- *Bellhop:* Works at the hotel, perhaps is a new to the town and newly hired. Staff is offered, for a fee, to stay in a small staff room. Knows the general layout and has a few useful keys too. Begins with the map handout, emulating the map in their heads.
+- *Tortured Writer:* Has lived at the hotel for the past two months, attempting to write their next novel after their previous novel was a huge hit
 
-*** Player motivations
+Sample character sheets are provided in the Appendix.
 
-The keeper might explain to the players that this scenario involves an emergency situation and as such players should...
+*** Bringing the Party Together
 
-***** TODO finish this section
-
-**** Traveler
-
-Player is a traveler on the way west, but stopped to lap in the luxury of the hotel for a few nights before the long train ride west. Player knows no where else except the nearby trainstation and a few shops on the other side of the street.
-
-**** Bellhop
-
-Player works as a bellboy for the hotel for a few years and knows a bit about the comings and goings. Their lodgings are on the hotel grounds itself and are forced through a sense of duty to carry out their duties and help out others.
-
-** PLAYER BEGINNINGS
-
-Investigators whom are not directly employed by the hotel are nearby, either from traveling (a train and bus station are nearby) or simply close by. Various hooks can be thought up as to why investigators are needing to stay at the hotel: either travelers looking to stay at a nearby hotel, perhaps their friend, employed there, can get them a discount.
+Travelers on the train are seated next to each and, though potentially strangers, it's commonly known that you can save a good deal of money if two people stay in one room and decide to strike up a conversation with one another. Long term guests of the hotel frequently rely on trusted staff for special requests: alcohol, cigarettes, maybe even a narcotic or two.
 
 ** ACT 1 THE CALM BEFORE THE STORM
-
-*** Keeper information
-
-Act 1 kicks off the adventure at a relatively slow pace, such so they won't reasonably split when the rain doesn't seem to be letting up. Keeper should mention that it started raining late last night and hasn't let up yet.
 
 *** Getting to the hotel
 
