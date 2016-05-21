@@ -92,6 +92,8 @@ There is a certain amount of adventurous disbelief on account of the player's mo
 
 Sample character sheets are provided in the Appendix.
 
+**** TODO Add in sample character sheets
+
 *** Bringing the Party Together
 
 Travelers on the train are seated next to each and, though potentially strangers, it's commonly known that you can save a good deal of money if two people stay in one room and decide to strike up a conversation with one another. Long term guests of the hotel frequently rely on trusted staff for special requests: alcohol, cigarettes, maybe even a narcotic or two.
@@ -100,9 +102,7 @@ Travelers on the train are seated next to each and, though potentially strangers
 
 *** Getting to the hotel
 
-Investigators walking to the hotel without an umbrella notice that the rainwater has a distinctly briney taste to it. Investigators can make a *Know Roll* to note that this is highly unusual (water evaporates from oceans without its salt content). Unequipped investigators could spend time shopping now as there are general stores around the plaza, a Keeper could suggest the meeting/checkin times are a few hours away.
-
-**** TODO remove the Know Roll
+Investigators walking to the hotel without an umbrella notice that the rainwater has a distinctly briny taste to it. Investigators can make an *INT* check to note that this is highly unusual (water evaporates from oceans without its salt content). Unequipped investigators could spend time shopping now as there are general stores around the plaza, a Keeper could suggest the meeting/checkin times are a few hours away.
 
 *** Arrival and Checking in
 
