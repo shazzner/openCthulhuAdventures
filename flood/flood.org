@@ -49,7 +49,7 @@ Wading in the water for an extended time can start to cause hypothermia on the i
 
 *** Deep One Encounters
 
-Once Deep Ones appear on the second day, they will continuously spawn in the water and attempt to hunt down humans. Deep Ones can be used to push the action forward if Investigators are dawdling. If investigators are making a racket or carelessly wandering the halls you may call for a group *LUCK* roll, failing that a Deep One will arrive in 1D6 rounds.
+Once Deep Ones appear on the second day, they will continuously spawn in the water and attempt to hunt down humans. Deep Ones can be used to push the action forward if Investigators are dawdling. If investigators are making a racket or carelessly wandering the halls the keeper may call for a group *LUCK* roll, failing that a Deep One will arrive in 1D6 rounds.
 
 ** NON-PLAYER CHARACTERS
 
@@ -64,9 +64,7 @@ Ernesto is aware of anyone touched by or has knowledge of Cthulhu Mythos. Any in
 *Henry Fines:* Hotel administer and a bit of a prickly pear. His duties involve berating staff, tending to the seemingly endless paperwork and phone calls, and keeping Ernesto from boring his important guests.
 When times become dire at the hotel, he runs on raw instinct. This can make for a bad encounter if confronted.
 
-*Charles the Bellhop:* Your bellhop upon arrival and when flood comes, can be a valuable ally. He plans on joining the Navy once he's earned enough for travel, but he carries with him a sense of duty to maintain the peace.
-
-**** TODO replace 'the bellhop' with Charles
+*Charles the Bellhop:* The hotel's favorite bellhop. Helping the party upon arrival and when flood comes, can be a valuable ally. He plans on joining the Navy once he's earned enough for travel, but he carries with him a sense of duty to maintain the peace.
 
 *** Travelers & Residents of the hotel
 
@@ -96,7 +94,7 @@ Sample character sheets are provided in the Appendix.
 
 *** Bringing the Party Together
 
-Travelers on the train are seated next to each and, though potentially strangers, it's commonly known that you can save a good deal of money if two people stay in one room and decide to strike up a conversation with one another. The hotel is visible from the train station and any station staff will happily direct them. Long term guests of the hotel frequently rely on trusted staff (Player characters, employed by the hotel) for special requests: alcohol, cigarettes, maybe even a narcotic or two.
+Travelers on the train are seated next to each and, though potentially strangers, it's commonly known that one can save a good deal of money if two people stay in one room and decide to strike up a conversation with one another. The hotel is visible from the train station and any station staff will happily direct them. Long term guests of the hotel frequently rely on trusted staff (Player characters, employed by the hotel) for special requests: alcohol, cigarettes, maybe even a narcotic or two.
 
 Rain has been coming down in this since late last night.
 
@@ -119,9 +117,9 @@ Players asking for a map of the local area or a map of the hotel will be handed 
 *** Heading up
 
 Players are shown up to their room by a bellhop named Charles, who will become more familiar as the events unfold. Charles is obviously fishing for tips and will enthusiastically inform the player about breakfast/lunch/dinner in the dining hall, location of the pool/bar/garden, and will mention that whenever it rains all day a rainyday ball will usually be held late at night.
-Your rooms are a comfortable victorian affair, though players with a single room will note its small size. Suites are larger with a few more furishings. West windows look out to the square.
+The rooms rooms are a comfortable victorian affair, though players with a single room will note its small size. Suites are larger with a few more furishings. West windows look out to the square.
 
-Those saddled with the /Economy Suite/ will give Charles a bit of a chuckle, he'll explain how it's really one of the rooms set aside for staff. For a small amount, he'll arrange to have you stay in a suite that's normally reserved for big name politicians or movie stars. "You really won't want to stay in the rooms", he'll say in complete sincerity. 
+Those saddled with the /Economy Suite/ will give Charles a bit of a chuckle, he'll explain how it's really one of the rooms set aside for staff. For a small amount, he'll arrange to have the player character in question stay in a suite that's normally reserved for big name politicians or movie stars. "You really won't want to stay in that room", he'll say in complete sincerity.
 
 *** Till the Ball
 
@@ -135,36 +133,28 @@ Investigators exploring the hotel without a map might get a little off track, an
 
 *A Bite to Eat:* Food is located at the dining hall serving common breakfast in the morning, and soup and sandwiches lunch. All for a modest sum. Inquiring about dinner, waitstaff will inform investigators that it's served in the ballroom, and apparently they have something special going on tonight.
 
-*A Drink:* The bar is open and serving drinks, though as this is prohibition you'll have to deal with an obtuse way of ask for alcohol. The bartender is rather short-spoken and will direct any questions about history or people to Ernesto.
+*A Drink:* The bar is open and serving drinks, though as this is prohibition, an obtuse way of asking for alcohol is needed. The bartender is rather short-spoken and will direct any questions about history or people to Ernesto.
 
 *The library and gamesroom:* The library is a modest collection of books and magazines. Mostly common thrillers, penny-dreadfuls, and fashion mags, there is some books about local history that might be useful for reference to other adventures. Investigators can search the stacks with a *Library Use* roll, but even with a success will find no Mythos or Occult books unless the Keeper wishes. The games room contains a single billard table and a few card tables. Cards, boardgames, and billard balls and cues are stored in a tall cabinet in the corner.
 
-*Pool and garden:* Both the pool and garden are of little interest for investigators. The pool is abandoned and overflowing. The garden once contained lively flowers and vegetables, now dying from the torrent of saltwater.
+*Pool and garden:* Both the pool and garden are of little interest for investigators. The pool is unused and overflowing. The garden, once containing lively flowers and vegetables, is now slowly dying from the torrent of saltwater.
 
-*** An odd thing to wash away
+*** Hotel Happenings
 
-Investigators watching the rain come down outside may be asked to make a *Spot Hidden* roll. Those succeeding will see a fish among some of the refuse being washed away (SAN 0/1). Any investigator seeing this can make a Hard *Biology* roll, with a success recognizing it as a saltwater fish.
+*An odd thing to wash away:* Investigators watching the rain come down outside may be asked to make a *Spot Hidden* roll. Those succeeding will see a fish among some of the refuse being washed away (SAN 0/1). Any investigator seeing this can make a Hard *Biology* roll, with a success recognizing it as a saltwater fish.
 
-*** Meeting Ernesto
+*Meeting Ernesto:* Ernesto wanders the halls seemingly lost, though he will ask that directly to any investigator not on a direct course. Those engaging Ernesto in conversation will be treated an archives worth of facts and anecdotes about the hotel and previous patrons. See the NPC section for more information on Ernesto. Investigators may coax some interesting information from Ernesto concerning guests at the hotel, as Ernesto knows a little bit of information about everyone staying or working at the hotel (perhaps he even knows a little bit about investigators even, see his character profile about Mythos awareness).
 
-Ernesto wanders the halls seemingly lost, though will ask the same to any investigator not on a direct course. Those engauging Ernesto in conversation will be treated an archives worth of facts and ancedotes about the hotel and previous patrons. See the NPC section for more information on Ernesto. Investigators may coax some interesting information from Ernesto concerning guests at the hotel, as Ernesto knows a little bit of information about everyone staying or working at the hotel (perhaps he even knows a little bit about investigators even, see his character profile about Mythos awareness).
+*The Ball Announced:* Sometime midday, a sign will be placed outside the Ballroom annoucing the Ball at 8o'clock. Bellhops, managers, and waitstaff will mention it to passing investigators as well.
 
-*** The Ball Announced
+*Relax:* Investigators wishing to just simply relax may take up a game of cards, read a book (of the non-sanity-reducing kind), or take a snooze. Kindly keepers may award a point of SAN.
 
-Sometime midday, a sign will be placed outside the Ballroom annoucing the Ball at 8o'clock. Bellhops, managers, and waitstaff will mention it to passing investigators as well.
+*The Basement Leak:* At any point during the first day Mr. Fines and presumably a handyman will be seen rushing down the hall towards the basement storage, players making a *Listen* roll can only make out "Leak", "that basement is old", and "Why didn't you tell me this sooner?". Anyone following the duo will need to make a *Sneak* roll or will be noticed by Mr. Fines who will tell the handyman that they'll discuss this later and walk off to their normal duties. If asked directly about it, Mr. Fines will tell investigators not to worry and will answer no further questions on the matter. Investigators with access to the basement storage will see the basement storage is now flooded with several inches of water.
 
-*** Relax
+*Searching for Sleep:* Investigators around the lobby will see Peter King insisting on getting some sleeping aid, as a light sleeper he feels he won't be able to sleep through the storm. The hotel doesn't have any sleeping aids on hand, but Mr. King will insist. If it's early in the day the hotel will fetch staff to go purchase it from a local store. If it's later in the afternoon the hotel will be reluctant to send someone out when it's obviously flooding. An investigator can volunteer here and Mr. King will give the investigator 5$ to purchase "Missus Timmons Quality Sleeping Draught" and to keep the change (it costs 1$). Investigators taking up this task will need to venture out. See the section on Venturing Out for more details. King will wait in the lobby for an hour then go to his room feeling cheated. He'll leave a note at the lobby for the returning investigator directing him to his room. Sincere gratitude is rewarded if the sleeping aid is delivered.
 
-Investigators wishing to just simply relax may take up a game of cards, read a book (of the non-sanity-reducing kind), or take a snooze. Kindly keepers may award a point of SAN.
+*Lights Flicker:* Lights will randomly flicker or drop then come back. Anyone within earshot of an electric gramaphone will hear the music briefly slow down then speed back up. Investigators with phobias to certain auditory stimulae may need to make a SAN check (0/1D2).
 
-*** The Basement Leak
-
-At any point during the first day Mr. Fines and presumably a handyman will be seen rushing down the hall towards the basement storage, players making a *Listen* roll can only make out "Leak", "that basement is old", and "Why didn't you tell me this sooner?". Anyone following the duo will need to make a *Sneak* roll or will be noticed by Mr. Fines who will tell the handyman that they'll discuss this later and walk off to their normal duties. If asked directly about it, Mr. Fines will tell investigators not to worry and will answer no futher questions on the matter. Investigators with access to the basement storage or those passing their *Sneak* rolls will see the basement storage is now flooded with several inches of water.
-**** TODO Clear up what the investigator is sneaking past here
-
-*** Searching for Sleep
-
-Investigators around the lobby will see Peter King insisting on getting some sleeping aid, as a light sleeper he feels he won't be able to sleep through the storm. The hotel doesn't have any sleeping aids on hand, but Mr. King will insist. If it's early in the day the hotel will fetch staff to go purchase it from a local store. If it's later in the afternoon the hotel will be reluctant to send someone out when it's obviously flooding. An investigator can volunteer here and Mr. King will give the investigator 5$ to purchase "Missus Timmons Quality Sleeping Draught" and to keep the change (it costs 1$). Investigators taking up this task will need to venture out. See the section on Venturing Out for more details. King will wait in the lobby for an hour then go to his room feeling cheated. He'll leave a note at the lobby for the returning investigator directing him to his room. Sincere gratitude is rewarded if the sleeping aid is delivered.
 **** TODO Peter Kings room #
 
 *** Venturing Out
@@ -173,16 +163,12 @@ Investigators might try to leave after they've settled in. Unfortunately the rai
 
 *** Refuges from the storm
 
-Investigators hanging out in the main lobby will see a group of four or six people enter in the main entrance. They look to be homeless, but it's hard to tell since being soaked head-to-toe might give that impression. The doorman will stop them from going any further than a few steps and ask the group to leave. What starts as a sorrowful plea, as no other place was open to seek refuge, to a full on violent altercation between the doorman and the group. As soon as it starts another doorman across the hall and two bellhops step in to break up the fist fight. Investigators helping to break up the fight will get caught in the fight too. After a few combat rounds the fight will end with Mr. Fines yelling at everyone to stop at once and for the group to leave. His right arm is inside his jacket pocket, at *Spot Hidden* roll will tell it's a gun. The group reluctantly leave, but not without spitting on the ground as they walk out into the pouring rain. After the group has left and the commotion has died down, Mr. Fines relaxes and approaches the doorman, now nursing a bloody-lip. Investigators that make a *Listen* roll will hear Fines instructing the doorman to lock the doors. At this point all entrances to the outside street are now locked, with any of the doormen and Mr. Fines having keys. No one is trapped inside though, anyone asking nicely will be let out.
+Investigators hanging out in the main lobby will see a group of four or six people enter in the main entrance. They look to be homeless, but it's hard to tell since being soaked head-to-toe might give that impression. The doorman will stop them from going any further than a few steps and ask the group to leave. What starts as a sorrowful plea, as no other place was open to seek refuge, to a full on violent altercation between the doorman and the group. As soon as it starts another doorman across the hall and two bellhops, one being Charles, will step in to break up the fist fight. Investigators helping to break up the fight will get caught in the fight too. After a few combat rounds the fight will end with Mr. Fines yelling at everyone to stop at once and for the group to leave. His right arm is inside his jacket pocket, at *Spot Hidden* roll will tell it's a gun. The group reluctantly leave, but not without spitting on the ground as they walk out into the pouring rain. After the group has left and the commotion has died down, Mr. Fines relaxes and approaches the doorman, now nursing a bloody-lip. Investigators that make a *Listen* roll will hear Fines instructing the doorman to lock the doors. At this point all entrances to the outside street are now locked, with any of the doormen and Mr. Fines having keys. No one is trapped inside though, anyone asking nicely will be let out.
 
 **** TODO add stats
 
 Roughians
 <stats>
-
-*** Lights flicker
-
-Lights will randomly flicker or drop then come back. Anyone within earshot of an electric gramaphone will hear the music briefly slow down then speed back up. Investigators with phobias to certain auditory stimulae may need to make a SAN check (0/1D2).
 
 *** Rainyday ball
 
@@ -200,7 +186,7 @@ Any NPC of note in this scenario will attend, including Ms. Davos, finally awake
 
 Ms. Davos will be drinking by the bar, completely engrossed in her own thoughts and conscious. If questioned she will just mumble some quick dismissal. If she continuously pestered, she will snap out of it briefly and tell whomever to buzz-off. The bartender will intervene afterwards.
 
-Hickenthorpe will gladly talk your ear off over his revolutionary invention, especially if he notices, or an investigator ventures, any wealth status. He states his intention to demonstrate his invention tomorrow afternoon as he intends to setup a small 'demonstration' in the parlor. If *Persuaded* or bribed (to the tune of 20$ to show your commitment) he will give you a private demonstration tomorrow morning in his room, and gives you his room number. A hard or better success on the *Persuasion* roll might convince him to show it privately after the ball, but if the investigator is a woman he'll certainly take this the wrong way.
+Hickenthorpe will gladly talk the ear off of any investigator over his revolutionary invention, especially if he notices, or an investigator ventures, any wealth status. He states his intention to demonstrate his invention tomorrow afternoon as he intends to setup a small 'demonstration' in the parlor. If *Persuaded* or bribed (to the tune of 20$ to show commitment) he will give the investigator a private demonstration tomorrow morning in his room, and gives out his room number. A hard or better success on the *Persuasion* roll might convince him to show it privately after the ball, but if the investigator is a woman he'll certainly take this the wrong way.
 
 Peter King will be quietly eating by himself.
 
@@ -212,7 +198,7 @@ Lillian is playing cards by herself in the gamesroom. Ronald is chatting with so
 
 *The lights go out:* As the night go on, and after all the investigators have picked up all or most of the clues given out: the poor overworked power mechanism will finally give out and plunge the room into almost complete darkness. Frightened gasps and cries will be let out, the band stops abruptly. A pause stretches out in the room as people wait to see if the power will kick back on. It does not. Some minor panic will sweep the room as people trip and knock into things. A few minutes later several hotel staff will enter the room carrying candle lamps. Mr. Fines will materialize onto the stage as he lights a lamp, he will try to calm the guests down and inform them that the staff will carefully take them back to their rooms, and to please be patient as they do so. Most of the panic will die down at this point. Staff carrying lamps will go from table to table to escort them back to their room. If the investigators are seated together, they'll be guided back soon after.
 
-*The trip back:* Investigators will notice the first floor carpet is wet, water can be heard dripping in places unseen throughout the hotel. If an investigator looks outside they will see the streets completely flooded past the doors to shops and coming up to the windows. The hotel is raised off the ground a bit so the water has only reached the door. The staff returning you back to your room is the same bellhop that showed you to your room and he has quite a grim expression on his face. If questioned about the situation he'll lie and tell you everything is alright. A *Psychology* roll can easily tell you he's lying. If pressed he'll reveal that the basement is flooded and the rain isn't letting up. He'll try to explain how grim the situation is getting, that the staff are considering fleeing home at night. He won't be much help if the investigators want to escape the hotel. It's one of the few tall buildings in this town and he'll sincerely advise you to stay here. By the time he sets out to find his home, it'll already be underwater.
+*The trip back:* Investigators will notice the first floor carpet is wet, water can be heard dripping in places unseen throughout the hotel. If an investigator looks outside they will see the streets completely flooded past the doors to shops and coming up to the windows. The hotel is raised off the ground a bit so the water has only reached the door. Of the staff that returns player character back to their room, one is Charles and he has quite a grim expression on his face. If questioned about the situation he'll lie and tell the investigator that everything is alright. A *Psychology* roll can easily tell that he's lying. If pressed he'll reveal that the basement is flooded and the rain isn't letting up. He'll try to explain how grim the situation is getting, that the staff are considering fleeing home at night. He won't be much help if the investigators want to escape the hotel. It's one of the few tall buildings in this town and he'll sincerely advise the investigator to stay here. By the time he sets out to find his home, it'll already be underwater.
 
 *** That night
 
@@ -244,10 +230,10 @@ The water hasn't stopped, what was initially thought to be an unfortunate flash 
 
 *** Awakened into Chaos
 
-Investigators who managed to find sleep will be awakened around 7am with yelling and screaming coming from outside their room. Power has still not been restored but the day is rather bright despite and although it doesn't seem to be raining as hard as it was, there is still a steady downfall. Anyone looking outside will see a city looking more like Venice than the quaint town you remembered. Investigators making a *Spot Hidden* roll will see some fish-sized dark shapes moving in the water (SAN 0/1). It smells deeply of the ocean, but tinged with a stagnant aroma.
-As investigators get their bearings, they will again hear the roar of the crowd outside. Going out will find a group of haggard looking guests, some still in their party gowns, standing around and yelling at the sole staff member. It's Charles, the bellhop who helped you before, he chickened out on the plan to flee the hotel with his fellow staff members after seeing how high the waters had gotten. The guests are battering him with questions about where everyone is, when help is going to arrive, if they'll get a refund on their stay, etc. Charles is doing is best, but is getting visible stressed out. Investigators can help in getting the guests off him or they can add to the battery: he really doesn't know anything. Ernesto, Fines, and the rest of the staff are missing; he hasn't had access to a radio to know if help is coming; sure you can have a refund, whatever.
+Investigators who managed to find sleep will be awakened around 7am with yelling and screaming coming from outside their room. Power has still not been restored but the day is rather bright despite and although it doesn't seem to be raining as hard as it was, there is still a steady downfall. Anyone looking outside will see a city looking more like Venice than the quaint town people remember. Investigators making a *Spot Hidden* roll will see some fish-sized dark shapes moving in the water (SAN 0/1). It smells deeply of the ocean, but tinged with a stagnant aroma.
+As investigators get their bearings, they will again hear the roar of the crowd outside. Going out will find a group of haggard looking guests, some still in their party gowns, standing around and yelling at the sole staff member. It's Charles, the bellhop who helped the investigators before, he chickened out on the plan to flee the hotel with his fellow staff members after seeing how high the waters had gotten. The guests are battering him with questions about where everyone is, when help is going to arrive, if they'll get a refund on their stay, etc. Charles is doing is best, but is getting visible stressed out. Investigators can help in getting the guests off him or they can add to the battery: he really doesn't know anything. Ernesto, Fines, and the rest of the staff are missing; he hasn't had access to a radio to know if help is coming; sure you can have a refund, whatever.
 
-After all the pointless questions are exhausted the topic of what to do might be presented. Charles will ask you to go check on the other guests and see if they need anything. If you've gotten on Charles' good side, either by defending him or helping out and showing you can be trusted he might help you further by offering keys/navigational help.
+After all the pointless questions are exhausted the topic of what to do might be presented. Charles will ask investigators to go check on the other guests and see if they need anything. If the party has gotten on Charles' good side, either by defending him or helping out and showing the party can be trusted he might help out further by offering keys/navigational help.
 As he leaves to go find a closet to hide in, he'll turn to the investigators and say, "After you've checked in on the guests, find that inventor fellow, Hickenthorpe, said he had some sort of communication device. See if he can call for help with it". He won't know where he's staying exactly, but he believes he's on the third floor.
 
 *** Checking on the guests
@@ -294,7 +280,7 @@ If investigators knock on her door, a reflexive response of, "Who is it?" will b
 
 Inside the room is a wreck: the bed has been overturned, sheets and pillows are strewn about, the flood is stained with trails of blood, and a large arcane symbol has been carefully scratched onto the floor. Ms. Davos will spill it all at the point, her relationship with the Yanguana Society, the book, the ritual, and her conviction that it can be used to help the world, how she checked into the nicest hotel she could find and went forward with the ritual. If asked about the loss of life, she'll make a quick offhand comment about the world not needing anymore people before stating that she knows, and is sorry. The conversation with Ms. Davos can go many ways, she is willing to explain how the spell can be, and should have been, used in completely arid places in the world to bring a bounty of water and life. If pushed on the guilt about the loss of life, a successful *Persuasion* opposed roll can be made against Ms. Davos. On a tie or success, she will break down and start sobbing.
 
-She genuinely believes there is nothing that can be done, but if asked about the ritual she'll show investigators the book. Investigators can all make *Idea*, *Intelligence*, or *Cthulhu Mythos* rolls. Making a Cthulhu Mythos roll will lead them to believing it can be reversed using the same ritual, otherwise investigators believe that studying the book might uncover some clues. With that, a case can be made to lend the book out for further study and Ms. Davos will reluctantly agree. In her mind, the damage (and supposed benefit) has already been done and while she doesn't want to be violently killed, she has since resolved she won't live past another day or two, so what does it matter to her? She will let the book go and will only wish to be left alone again. Her last request is to close the door on the way out. She won't speak or aid you any further.
+She genuinely believes there is nothing that can be done, but if asked about the ritual she'll show investigators the book. Investigators can all make *Idea*, *Intelligence*, or *Cthulhu Mythos* rolls. Making a Cthulhu Mythos roll will lead them to believing it can be reversed using the same ritual, otherwise investigators believe that studying the book might uncover some clues. With that, a case can be made to lend the book out for further study and Ms. Davos will reluctantly agree. In her mind, the damage (and supposed benefit) has already been done and while she doesn't want to be violently killed, she has since resolved she won't live past another day or two, so what does it matter to her? She will let the book go and will only wish to be left alone again. Her last request is to close the door on the way out. She won't speak or aid the investigators any further.
 
 If the door is forced open, she is threatened or attacked, she will defend herself against investigators with her knowledge of deadly spells. She is protective of her book, and won't stop attacking if investigators take it against her will. Her attacks will stop if investigators get ahold of the book and threaten to destroy it however.
 
@@ -401,3 +387,5 @@ Contributions are welcome to this work, if you have any issues ranging from miss
 
 Help translate this work into multiple languages! If you would like to please email me and I can help you add your translation to the main repository.
 
+** TODO
+- add physical descriptions (for hotel,etc)
