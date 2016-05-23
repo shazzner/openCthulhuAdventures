@@ -309,7 +309,7 @@ If the door is forced open, she is threatened or attacked, she will defend herse
 Fighting (Brawl) 25%
 Dodge 25%
 *Skills:* Appraise 60%, Charm 55%, Cthulhu Mythos 30%, History 50%, Intimidate 40%, Library Use 65%, Listen 45%, Occult 70%, Languages: (French) 40%, (German) 35%, (Latin) 75%, Persuade 55%, Psychology 40%, Spot Hidden 45%
-*Spells:* Breath of the Deep, Dominate, Elder Sign, Mindblast
+*Spells:* Dominate, Elder Sign, Mindblast
 
 *** The Book
 
@@ -384,6 +384,14 @@ Any NPCs rescued or befriended can help out here: Ronald is happy to help take u
 
 When all seems lost, perhaps when investigators are on the cusp of death by Deep Ones or insanity, should Cthulhu fully materialize. The torrent of water will drop and full sight of the Great Old One will be beheld (1D10/1D100). Wasting no time, it will hold aloft a hand and send the entire vestige of the town and a near sea of water with it.
 
+*THE SHADOW OF CTHULHU*, /materializing form of The Great Old One/
+| STR | CON |  SIZ | DEX | INT | POW | HP |
+| N/A | 225 | 1050 | N/A | 210 | 105 | 80 |
+*Build:* 22
+*Move:* N/A
+*Magic Points:* 24
+*Spells:* Breath of the Deep, Call Deep Ones, Dominate, Shriveling, Wither Limb, Wrack
+
 **** TODO add Shadow Cthulhu stats, should also have a map of the fort
 
 ** AFTERMATH
@@ -413,5 +421,5 @@ Contributions are welcome to this work, if you have any issues ranging from miss
 Help translate this work into multiple languages! If you would like to please email me and I can help you add your translation to the main repository.
 
 ** TODOs
-- replace check with roll for skill rolls
+- Make maps
 
