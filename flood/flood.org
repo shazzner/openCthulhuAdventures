@@ -93,10 +93,6 @@ There is a certain amount of adventurous disbelief on account of the player's mo
 - *Bellhop:* Works at the hotel, perhaps is a new to the town and newly hired. Staff is offered, for a fee, to stay in a small staff room. Knows the general layout and has a few useful keys too. Begins with the map handout, emulating the map in their heads.
 - *Tortured Writer:* Has lived at the hotel for the past two months, attempting to write their next great novel after their previous novel became a runaway sensation. Writers block and pressure from the publisher has left this writer in a deep depression.
 
-Sample character sheets are provided in the Appendix.
-
-**** TODO Add in sample character sheets
-
 *** Bringing the Party Together
 
 Travelers on the train are seated next to each and, though potentially strangers, it's commonly known that one can save a good deal of money if two people stay in one room and decide to strike up a conversation with one another. The hotel is visible from the train station and any station staff will happily direct them. Long term guests of the hotel frequently rely on trusted staff (Player characters, employed by the hotel) for special requests: alcohol, cigarettes, maybe even a narcotic or two.
@@ -156,11 +152,9 @@ Investigators exploring the hotel without a map might get a little off track, an
 
 *The Basement Leak:* At any point during the first day Mr. Fines and presumably a handyman will be seen rushing down the hall towards the basement storage, players making a *Listen* roll can only make out "Leak", "that basement is old", and "Why didn't you tell me this sooner?". Anyone following the duo will need to make a *Sneak* roll or will be noticed by Mr. Fines who will tell the handyman that they'll discuss this later and walk off to their normal duties. If asked directly about it, Mr. Fines will tell investigators not to worry and will answer no further questions on the matter. Investigators with access to the basement storage will see the basement storage is now flooded with several inches of water.
 
-*Searching for Sleep:* Investigators around the lobby will see Peter King insisting on getting some sleeping aid, as a light sleeper he feels he won't be able to sleep through the storm. The hotel doesn't have any sleeping aids on hand, but Mr. King will insist. If it's early in the day the hotel will fetch staff to go purchase it from a local store. If it's later in the afternoon the hotel will be reluctant to send someone out when it's obviously flooding. An investigator can volunteer here and Mr. King will give the investigator 5$ to purchase "Missus Timmons Quality Sleeping Draught" and to keep the change (it costs 1$). Investigators taking up this task will need to venture out. See the section on Venturing Out for more details. King will wait in the lobby for an hour then go to his room feeling cheated. He'll leave a note at the lobby for the returning investigator directing him to his room. Sincere gratitude is rewarded if the sleeping aid is delivered.
+*Searching for Sleep:* Investigators around the lobby will see Peter King insisting on getting some sleeping aid, as a light sleeper he feels he won't be able to sleep through the storm. The hotel doesn't have any sleeping aids on hand, but Mr. King will insist. If it's early in the day the hotel will fetch staff to go purchase it from a local store. If it's later in the afternoon the hotel will be reluctant to send someone out when it's obviously flooding. An investigator can volunteer here and Mr. King will give the investigator 5$ to purchase "Missus Timmons Quality Sleeping Draught" and to keep the change (it costs 1$). Investigators taking up this task will need to venture out. See the section on Venturing Out for more details. King will wait in the lobby for an hour then go to his room feeling cheated. He'll leave a note at the lobby for the returning investigator directing him to his room #1029 on the first floor. Sincere gratitude is rewarded if the sleeping aid is delivered.
 
 *Lights Flicker:* Lights will randomly flicker or drop then come back. Anyone within earshot of an electric gramaphone will hear the music briefly slow down then speed back up. Investigators with phobias to certain auditory stimulae may need to make a SAN roll (0/1D2).
-
-**** TODO Peter Kings room #
 
 *** Venturing Out
 
@@ -234,7 +228,7 @@ The next part depends on the behavior of the investigators. If investigators hel
 
 If investigators failed to aid Ronald and Lillian, read the following instead:
 
-/The light has ceased and only a dim pale moonlight keeps this reality from crumbling. You can feel it now. Some ancient terror is waiting for you in that tower. The clap of thunder jolts you. A flash of light floods all corners, revealing what should have laid hidden under darkness. It was only for a second, but you saw it. Only a glimpse was enough to freeze what little free will you had. A dark mass fills the tower, tendrils seem to tickle the walls of water. The horror beckons you. You feel yourself being pulled into the tower just as your body, your real body, tries in vain to awaken you. Terror wracks your body and saps your strength as you start to sob. You feel judgment upon you as you blubber and bluster every crime and sin you've committed in your life. You wish for pity, but feel something much worse: indifference. No one cares and what little importance you have in life is that of food and sacrifice. The tower is close. You panic and try to squirm and squeeze away, but it is for naught. You are doomed. Mercifully, you are jolted awake as the water of the hideous tower envelopes you./
+/The light has ceased and only a dim pale moonlight keeps this reality from crumbling. You can feel it now. Some ancient terror is waiting for you in that tower. The clap of thunder jolts you. A flash of light floods all corners, revealing what should have laid hidden under darkness. It was only for a second, but you saw it. Only a glimpse was enough to freeze what little free will you had. A dark mass fills the tower, tendrils seem to tickle the walls of water. The horror beckons you. You feel yourself being pulled into the tower just as your body, your real body, tries in vain to awaken you. Terror wracks your body and saps your strength as you start to sob. You feel judgment upon you as you blubber and bluster every crime and sin you've committed in your life. You wish for pity, but feel something much worse: indifference. No one cares, and what little importance you have in life is that of food and sacrifice. The tower is close. You panic and try to squirm and squeeze away, but it is for naught. You are doomed. Mercifully, you are jolted awake as the water of the hideous tower envelopes you./
 
 If the party received the second (bad) outcome, each investigator will need to make a *Sanity* roll (1/1D4). With that, the first day has ended and Act 2 begins.
 
@@ -242,8 +236,7 @@ If the party received the second (bad) outcome, each investigator will need to m
 
 *** Rising Waters
 
-The water hasn't stopped, what was initially thought to be an unfortunate flash flood has now turned into something biblical. Refer to Map 2 for all the areas underwater, which includes most of the first floor. Deep Ones will start to appear and start attacking investigators. In addition, refer to optional hypothermia rules if needed.
-**** TODO Add maps
+The water hasn't stopped, what was initially thought to be an unfortunate flash flood has now turned into something biblical. On the dawn of the second day, the entire first floor is completely submerged. Deep Ones will start to appear and start attacking investigators. In addition, refer to optional hypothermia rules if needed.
 
 *** Awakened into Chaos
 
@@ -269,13 +262,12 @@ The Keeper can have a Deep One emerge and attack here, as it sensed the nearby i
 
 *** Hickenthorpe
 
-After receiving the tip about Hickenthorpe, investigators might slowly make their way there. He's hiding in Room TBA. He, like almost every other human inhabitant of this building, is scared and completely unsure. All pretense of a smooth-talking conman has fled, replaced by cowardice and fear. Unless a previous arrangement was made he'll be reluctant to answer the door, even so far as bluffing he has a pistol and is willing to use it. *Persuading* Hickenthorpe won't be much of a challenge though, he'll open up for any (false or not) promise of help and rescue. Those wishing to *Intimidate* him with a threat of being left behind will similarly work. Failing that, his door is visibly flimsy (as are most doors on the top floor) and can be broken down with a *STR* test. Similarly if a deep one is in hot pursuit of investigators, cries of monsters will only send Hickenthorpe hiding instead of opening the door.
+After receiving the tip about Hickenthorpe, investigators might slowly make their way there. He's hiding in Room #3049. He, like almost every other human inhabitant of this building, is scared and completely unsure. All pretense of a smooth-talking conman has fled, replaced by cowardice and fear. Unless a previous arrangement was made he'll be reluctant to answer the door, even so far as bluffing he has a pistol and is willing to use it. *Persuading* Hickenthorpe won't be much of a challenge though, he'll open up for any (false or not) promise of help and rescue. Those wishing to *Intimidate* him with a threat of being left behind will similarly work. Failing that, his door is visibly flimsy (as are most doors on the top floor) and can be broken down with a *STR* test. Similarly if a deep one is in hot pursuit of investigators, cries of monsters will only send Hickenthorpe hiding instead of opening the door.
 Hickenthorpe is hiding behind the bed, he carries no weapon on him except for an empty bottle of whiskey in reach. If feeling threaten for his life or a Deep One fallows investigators in, he'll throw the bottle at the nearest perceived danger and try to flee. If not caught he'll flee to the lower levels where he'll be at risk of deep ones dragging him under.
 Once things have calmed, Hickenthorpe will being speaking to investigators. Most of what he says will be tearful blubber. If asked about his revolutionary device, he'll seem a bit surprised and taken aback. He's forgotten about the con game, only wishing to be back home and safe. He'll show the investigators his device, perhaps in the back of his mind his device actually does work and maybe these strangers will know how to end this nightmare.
 The device is contained in a locked briefcase in his closet. He'll retrieve it, open it, and present it to investigators, answering any questions they have. The device looks like a small portable radio torn inside-out, with wires, magnets, and small pieces of metal hobbled, tied, and glued together, seemingly at random. Have every investigator viewing the device make an *INT* roll, succeeding reveals what should be obvious baloney. While not right out admitting an obvious con, he'll explain he read some books on radio technology and was way in over his head when he created the device, and who was he to argue if people gave him money?
 The device being a dead end, investigators might inquire about other avenues. Hickenthorpe won't know much of anything directly related to the ritual, but if asked who might Hickenthorpe will point them toward Ernesto. If asked about anything unusual, Hickenthorpe will offer up that he heard some strange sounds the other night, after everyone had gone to sleep. The night before the investigators arrived. He's referring to Ms. Davos as she went through with the ritual. She is only a few rooms away, and waits there now.
 
-**** TODO add room #
 *** Tracking down Ernesto
 
 Ernesto is standing out on one of the terraces, observing the apocalypse as it unfolds. Finding Ernesto requires searching around while Deep Ones are on the look out. If passing through a hallway with a window outside, a *Spot Hidden* or *Luck* roll might be granted to catch someone standing out on a terrace. Joining Ernesto, investigators will see the true destruction the ritual has wrought the city. The scene is not unlike the /Wanderer above the Sea of Fog/, only rooftops are visible now and a massive perimeter of fog around the city seemingly transports the view to another dimension. The rain is gone but for a light misting. Now dusk, the colors have warped and shaded this land into an alien plane though that's not what draws the attention at first glance. Situated not far from this terrace lies a massive column of falling water. Investigators will recall back to their dreams at the end of the first day and seeing this carries a great penalty to an investigator's sanity (1D4/1D8). Investigators failing the test will feel an ominous presence growing within the column of water.
@@ -292,7 +284,8 @@ As investigators are raiding the utility closet, Ms. Davos will briefly open the
 This is the crucial point in the investigation, as Ms. Davos posses the only means to stop the calling of Cthulhu and possibly bring things back from the brink. She's been waiting here, since the beginning, except for a stroll out to the rainy-day ball. She's currently tired, high-strung, and mentally deteriorating.
 
 As explained in the *Wandering About* section: if the sun has gone down, an Elder Sign has been crudely painted on the door. It was painted using a mixture of hotel courtesy ink from an inkwell and her own blood.
-If investigators knock on her door, a reflexive response of, "Who is it?" will be given. Investigators are on their own from here, as Ms. Davos will not open door unless a good reason is given. She knows an Elder Sign will protect her from Deep Ones (though it's not as effective as she believes), so she's only putting herself in danger by opening the door. If asked, about the flood and Deep Ones, she will flatly state that there is nothing that can be done. A *Persuade* roll can be attempted with a valid persuasive argument that they are probably the only ones that can help. She will let investigators in regardless of rolls if they let on their familiarity of the mythos or speak about the dream they had. She will start to get annoyed however if investigators try to deceive her about their intentions as she is no idiot.
+
+Ms. Davos awaits in room #3064. If investigators knock on her door, a reflexive response of, "Who is it?" will be given. Investigators are on their own from here, as Ms. Davos will not open door unless a good reason is given. She knows an Elder Sign will protect her from Deep Ones (though it's not as effective as she believes), so she's only putting herself in danger by opening the door. If asked, about the flood and Deep Ones, she will flatly state that there is nothing that can be done. A *Persuade* roll can be attempted with a valid persuasive argument that they are probably the only ones that can help. She will let investigators in regardless of rolls if they let on their familiarity of the mythos or speak about the dream they had. She will start to get annoyed however if investigators try to deceive her about their intentions as she is no idiot.
 
 Inside the room is a wreck: the bed has been overturned, sheets and pillows are strewn about, the floor is stained with trails of blood, and a large arcane symbol has been carefully scratched onto the floor. Ms. Davos will spill it all at the point, her relationship with the Yanguana Society, the book, the ritual, and her conviction that it can be used to help the world, how she checked into the nicest hotel she could find and went forward with the ritual. If asked about the loss of life, she'll make a quick offhand comment about the world not needing anymore people before stating that she knows, and is sorry. The conversation with Ms. Davos can go many ways, she is willing to explain how the spell can be, and should have been, used in completely arid places in the world to bring a bounty of water and life. If pushed on the guilt about the loss of life, a successful *Persuade* roll can be made against Ms. Davos. On a tie or success, she will break down and start sobbing, fully comprehending what she has done.
 
@@ -313,11 +306,9 @@ Dodge 25%
 
 *** The Book
 
-See Keeper Information about the /Canticum de Abyssi/, but needless to say there /is/ a way to stop the ritual but it will take the rest of the night of studying the book (1D6+1 hours). Successfully passing the skill checks will impart the information of stopping the ritual, by means of slight changes to the pictograph and changes to the utterances of the words. Attempting this corrected ritual will take more time (1D3 hours). Investigators failing their sanity rolls and believing in the benefit of the ritual can still help their comrades in stopping the ritual. Assuming a long shot happens and they survive, then perhaps this investigator might just repeat this experiment at a future time.
+See Keeper Information about the /Canticum de Abyssi/, but needless to say there /is/ a way to stop the ritual but it will take the rest of the night of studying the book (1D6+1 hours). Successfully passing the skill checks will impart the information of stopping the ritual, by means of slight changes to the pictograph and changes to the utterances of the words. Attempting this corrected ritual will take more time (1D3 hours to prepare the spell). Investigators failing their sanity rolls and believing in the benefit of the ritual can still help their comrades in stopping the ritual. Assuming a long shot happens and they survive, then perhaps this investigator might just repeat this experiment at a future time.
 
 See /Call of Cthulhu: Keeper Rulebook/ on rules for /Dismiss Deity/. The dismiss spell can be cast as soon as it is learnt; however, sensing dismissal Cthulhu will attempt to send hoards of Deep Ones to try and stop the Investigators. See below *Stopping the Ritual* for details.
-
-**** TODO create an actual dismiss spell since it differs from the rulebook
 
 *** Deep Ones on the Hunt
 
@@ -348,8 +339,6 @@ With that, the final day arrives...
 *** Rising Waters
 
 The hotel at this point is completely flooded three-quarters up the second floor, where only the third floor promises any dry land to speak of. The rain itself has stopped for the most part, replaced by a giant unearthly column of water where Cthulhu awaits. The valley has been mostly completely covered by water at this point, only the tops of large buildings, those fortunate enough to be on the higher outskirts of the Valley, and the towers of the old fort, remain above water. Trash and debris, even a few floating bodies bob up and down on the mildly turbulent water.
-
-**** TODO add a map
 
 *** Stopping the Ritual
 
@@ -392,8 +381,6 @@ When all seems lost, perhaps when investigators are on the cusp of death by Deep
 *Magic Points:* 24
 *Spells:* Breath of the Deep, Call Deep Ones, Dominate, Shriveling, Wither Limb, Wrack
 
-**** TODO add Shadow Cthulhu stats, should also have a map of the fort
-
 ** AFTERMATH
 
 *** All is Lost
@@ -404,6 +391,7 @@ Investigators who've failed to stop the ritual will be dragged back with all the
 
 All is quiet and still. The Deep Ones will vanish and the storm will finally cease. The water that was gathering in the valley will eventually drain away, though it will take most of the day. There isn't much cause for celebration however, in the coming days only a handful of survivors will be found in poor health and worse mental state. The once busy town will be no more and few will know what really happen.
 
+Any investigators surviving will be awarded 2D10 sanity points.
 
 ** HANDOUTS
 
@@ -421,5 +409,7 @@ Contributions are welcome to this work, if you have any issues ranging from miss
 Help translate this work into multiple languages! If you would like to please email me and I can help you add your translation to the main repository.
 
 ** TODOs
-- Make maps
+- Add Map of Final Battle
+- Add Map of the Fort
+- Add in Sample Character Sheets
 
